@@ -1,0 +1,1154 @@
+\begin{thebibliography}{100}
+
+\bibitem{Knoll1932}
+Knoll M, Ruska E.
+\newblock Das elektronenmikroskop.
+\newblock Zeitschrift für Physik, 1932, 78:318--339
+
+\bibitem{Haider1997}
+Haider M, Uhlemann S, Schwan E, et~al.
+\newblock Development of a spherical corrected 200 kV TEM: current state of
+  this project and results obtained so far.
+\newblock European Journal of Cell Biology, 1997, 74:7--7
+
+\bibitem{Frank2006}
+Frank J.
+\newblock Electron Tomography.
+\newblock New York: Springer, 2006
+
+\bibitem{VanAarle2015}
+Van~Aarle W, Palenstijn W~J, De~Beenhouwer J, et~al.
+\newblock The ASTRA toolbox: a platform for advanced algorithm development in
+  electron tomography.
+\newblock Ultramicroscopy, 2015, 157:35--47
+
+\bibitem{Heidari2013}
+Heidari H, Van Den~Broek W, Bals S.
+\newblock Quantitative electron tomography: the effect of the three-dimensional
+  point spread function.
+\newblock Ultramicroscopy, 2013, 135:1--5
+
+\bibitem{Koning2013}
+Koning R~I, Kutchnoukov V~G, Hagen C~W, et~al.
+\newblock Nanofabrication of a gold fiducial array on specimen support for
+  electron tomography.
+\newblock Ultramicroscopy, 2013, 135:99--104
+
+\bibitem{Fakron2015}
+Fakron O~M, Field D~P.
+\newblock 3D image reconstruction of fiber systems using electron tomography.
+\newblock Ultramicroscopy, 2015, 149:21--25
+
+\bibitem{Baumeister1999}
+Baumeister W, Grimm R, Walz J.
+\newblock Electron tomography of molecules and cells.
+\newblock Trends in Cell Biology, 1999, 9:81--85
+
+\bibitem{McEwen2001}
+McEwen B~F, Marko M.
+\newblock The emergence of electron tomography as an important tool for
+  investigating cellular ultrastructure.
+\newblock The Journal of Histochemistry \& Cytochemistry, 2001, 49(5):553--563
+
+\bibitem{McIntosh2001}
+McIntosh J~R.
+\newblock Electron microscopy of cells: a new beginning for a new Century.
+\newblock The Journal of Cell Biology, 2001, 153(6):F25--F32
+
+\bibitem{Nellist2000}
+Nellist P~D, Pennycook S~J.
+\newblock The principles and interpretation of annular dark-field Z-contrast
+  imaging.
+\newblock Elsevier, 2000
+
+\bibitem{Kubel2005}
+Kubel C, Voigt A, Schoenmakers R, et~al.
+\newblock Recent advances in electron tomography: TEM and HAADF-STEM tomography
+  for materials science and semiconductor applications.
+\newblock Microscopy and Microanalysis, 2005, 11(5):378--400
+
+\bibitem{Zhong2017}
+Zhong Z, Goris B, Schoenmakers R, et~al.
+\newblock A bimodal tomographic reconstruction technique combining EDS-STEM and
+  HAADF-STEM.
+\newblock Ultramicroscopy, 2017, 174:35--45
+
+\bibitem{Alania2017}
+Alania M, Altantzis T, De~Backer A, et~al.
+\newblock Depth sectioning combined with atom-counting in HAADF STEM to
+  retrieve the 3D atomic structure.
+\newblock Ultramicroscopy, 2017, 177:36--42
+
+\bibitem{Lefebvre2015}
+Lefebvre W, Hernandez-Maldonado D, Moyon F, et~al.
+\newblock HAADF-STEM atom counting in atom probe tomography specimens: towards
+  quantitative correlative microscopy.
+\newblock Ultramicroscopy, 2015, 159(Part 2):403--412
+
+\bibitem{Zhou2019}
+Zhou J~H, Yang Y, Yang Y, et~al.
+\newblock Observing crystal nucleation in four dimensions using atomic electron
+  tomography.
+\newblock Nature, 2015, 570(7762):500--503
+
+\bibitem{Chen2013}
+Chen C~C, Zhu C, White E~R, et~al.
+\newblock Three-dimensional imaging of dislocations in a nanoparticle at atomic
+  resolution.
+\newblock Nature, 2013, 496(7443):74
+
+\bibitem{Miao2016}
+Miao J~W, Ercius P, Billinge S~J.
+\newblock Atomic electron tomography: 3D structures without crystals.
+\newblock Science, 2016, 353(6306):aaf2157
+
+\bibitem{Zhu2013}
+Zhu C, Chen C~C, Du J, et~al.
+\newblock Towards three-dimensional structural determination of amorphous
+  materials at atomic resolution.
+\newblock Physical Review B, 2013, 88(10):100201
+
+\bibitem{Xu2015}
+Xu R, Chen C~C, L W, et~al.
+\newblock Three-dimensional coordinates of individual atoms in materials
+  revealed by electron tomography.
+\newblock Nature Materials, 2015, 14(11):1099--1103
+
+\bibitem{Scott2012}
+Scott M~C, Chen C~C, Mecklenburg M, et~al.
+\newblock Electron tomography at 2.4-angstrom resolution.
+\newblock Nature, 2012, 483(7390):444--447
+
+\bibitem{WangCY2020}
+Wang C~Y, Duann H~C, Chen C~J, et~al.
+\newblock Three-dimensional atomic structure of grain boundaries resolved by
+  atomic-resolution electron tomography.
+\newblock Matter, 2020, 3(6):1999--2011
+
+\bibitem{Persson2001}
+Persson M, Bone D, Elmqvist H.
+\newblock Total variation norm for three-dimensional iterative reconstruction
+  in limited view angle tomography.
+\newblock Physics in medicine and biology, 2001, 46:853--866
+
+\bibitem{Lu2010}
+Lu X~Q, Sun Y, Bai G~F.
+\newblock Adaptive wavelet-Galerkin methods for limited angle tomography.
+\newblock Image and Vision Computing, 2010, 28(4):696--703
+
+\bibitem{Aganj2007}
+Aganj I, Bartesaghi A, Borgnia M, et~al.
+\newblock Regularization for inverting the radon transform with wedge
+  consideration.
+\newblock In: Proc of IEEE International Symposium on Biomedical Imaging: From
+  Nano To Macro.
+\newblock 2007,  217--220
+
+\bibitem{Paavolainen2014}
+Paavolainen L, Acar E, Tuna U, et~al.
+\newblock Compensation of missing wedge effects with sequential statistical
+  reconstruction in electron tomography.
+\newblock Plos One, 2014, 9(10):e108978
+
+\bibitem{Yau1996}
+Yau S~F, Wong S~H.
+\newblock Limited angle tomography using artificial neural network.
+\newblock Neural Networks Image Process, 1996, 2664:170--181
+
+\bibitem{Trampert2016}
+Trampert P, Chen D, Bogachev S, et~al.
+\newblock Dictionary-based filling of the missing wedge in electron tomography.
+\newblock Microscopy and Microanalysis, 2016, 22(S3):554--555
+
+\bibitem{Kovacik2014}
+Kovacik L, Kereiche S, Hoog J~L, et~al.
+\newblock A simple Fourier filter for suppression of the missing wedge ray
+  artefacts in single-axis electron tomographic reconstructions.
+\newblock Journal of Structural Biology, 2014, 186(1):141--152
+
+\bibitem{Kupsch2015}
+Kupsch A, Lange A, Hentschel M~P, et~al.
+\newblock Missing wedge computed tomography by iterative algorithm DIRECTT.
+\newblock Journal of Microscopy (Oxford, United Kingdom), 2015, 261(1):36--45
+
+\bibitem{Lee2008}
+Lee E, Fahimian B~P, Iancu C~V, et~al.
+\newblock Radiation dose reduction and image enhancement in biological imaging
+  through equally-sloped tomography.
+\newblock Journal of Structural Biology, 2008, 164(2):221--227
+
+\bibitem{Ress1999}
+Ress D, Harlow M~L, Schwarz M, et~al.
+\newblock Automatic acquisition of fiducial markers and alignment of images in
+  tilt series for electron tomography.
+\newblock Journal of Electron Microscopy, 1999, 48(3):277--287
+
+\bibitem{Jones2013}
+Jones S~D, Härting M.
+\newblock A new correlation based alignment technique for use in electron
+  tomography.
+\newblock Ultramicroscopy, 2013, 135:56--63
+
+\bibitem{Diez2006}
+Díez D~C, Seybert A, Frangakis A~S.
+\newblock Tilt-series and electron microscope alignment for the correction of
+  the non-perpendicularity of beam and tilt-axis.
+\newblock Journal of Structural Biology, 2006, 154(2):195--205
+
+\bibitem{Printemps2016}
+Printemps T, Mula G, Sette D, et~al.
+\newblock Self-adapting denoising, alignment and reconstruction in electron
+  tomography in materials science.
+\newblock Ultramicroscopy, 2016, 160:23--34
+
+\bibitem{ChenFR2017}
+Chen F~R, Kisielowski C, Van~Dyck D.
+\newblock Prospects for atomic resolution in-line holography for a 3D
+  determination of atomic structures from single projections.
+\newblock Advanced structural and chemical imaging, 2017, 3(1):8
+
+\bibitem{ChenFR2016}
+Chen F~R, Van~Dyck D, Kisielowski C.
+\newblock In-line three-dimensional holography of nanocrystalline objects at
+  atomic resolution.
+\newblock Nature Communications, 2016, 7:10603
+
+\bibitem{Jia2014}
+Jia C~L, Mi S~B, Barthel J.
+\newblock Determination of the 3D shape of a nanoscale crystal with atomic
+  resolution from a single image.
+\newblock Nature Materials, 2014, 13(11):1044--1049
+
+\bibitem{VanDyck2012}
+Van~Dyck D, Jinschek J~R, Chen F~R.
+\newblock 'Big Bang' tomography as a new route to atomic-resolution electron
+  tomography.
+\newblock Nature, 2012, 486(7402):243--246
+
+\bibitem{VanAert2011}
+Van~Aert S, Batenburg K~J, Rossell M~D, et~al.
+\newblock Three-dimensional atomic imaging of crystalline nanoparticles.
+\newblock Nature, 2011, 470(7334):374--377
+
+\bibitem{RudenbergReinhold1931}
+Rudenberg R.
+\newblock Three-dimensional atomic imaging of crystalline nanoparticles.
+\newblock Germany.
+\newblock DE, 906737.
+\newblock 1931-05-30
+
+\bibitem{Crewe1969}
+Crewe A~V, Isaacson M, Johnson D.
+\newblock A simple scanning electron microscope.
+\newblock Review of Scientific Instruments, 1969, 40(241):241--246
+
+\bibitem{Kisielowski2008}
+Kisielowski C, Freita B, Bischoff M, et~al.
+\newblock Detection of single atoms and buried defects in three dimensions by
+  aberration-corrected electron microscope with 0.5-Å information limit.
+\newblock Microscopy and Microanalysis, 2008, 14(5):469--477
+
+\bibitem{Linck2016}
+Linck M, Hartel P, Uhlemann S, et~al.
+\newblock Chromatic aberration correction for atomic resolution TEM imaging
+  from 20 to 80 kV.
+\newblock Physical Review Letters, 2016, 117(7):076101
+
+\bibitem{Buckingham1865}
+Buckingham J~D.
+\newblock Thermionic emission properties of a lanthanum hexaboride/rhenium
+  cathode.
+\newblock British Journal of Applied Physics, 1865, 16(12):1821
+
+\bibitem{Garbrecht2011}
+Garbrecht M, Spiecker E, Tillmann K, et~al.
+\newblock Quantitative atom column position analysis at the incommensurate
+  interfaces of a (PbS)\textsubscript{1.14}NbS\textsubscript{2} misfit layered
+  compound with aberration-corrected HRTEM.
+\newblock Ultramicroscopy, 2011, 111(3):245--250
+
+\bibitem{DeBeeck1996}
+Op~De~Beeck M, Van~Dyck D.
+\newblock Direct structure reconstruction in HRTEM.
+\newblock Ultramicroscopy, 1996, 64(1-4):153--165
+
+\bibitem{Lynch1971}
+Lynch D~F.
+\newblock Effects in dynamic electron diffraction intensities from gold.
+\newblock Acta Crystallographica, 1971, A27:399--407
+
+\bibitem{Wang1991}
+Wang Z~L.
+\newblock Multiple inelastic xcattering in high-energy electron diffraction and
+  imaging.
+\newblock Acta Crystallographica, 1991, A47:686--698
+
+\bibitem{Wang1995}
+Wang Z~L, Li D~C.
+\newblock Dynamical diffraction of double-inelastically scattered electrons.
+\newblock Philosophical Magazine Part B, 1995, 71(2):201--219
+
+\bibitem{Spence1998}
+Spence J~C~H.
+\newblock Direct inversion of dynamical electron diffraction patterns to
+  structure factors.
+\newblock Acta Crystallographica, 1991, A54:7--18
+
+\bibitem{Cowley1968}
+Cowley J~M, Pogany A~P.
+\newblock Diffuse scattering in electron diffraction patterns. I. General
+  theory and computational methods.
+\newblock Acta Crystallographica, 1968, A24:109--116
+
+\bibitem{Howie1961}
+Howie A, Whelan M~J.
+\newblock Diffraction contrast of electron microscope images of crystal lattice
+  defects. II. The development of a dynamical theory.
+\newblock Proceedings of the Royal Society A: Mathematical, Physical and
+  Engineering Sciences, 1961, 263(1313):217--237
+
+\bibitem{Chen1995}
+Chen J~H, Wang Y~M, Luo X~J, et~al.
+\newblock An improved multislice method for calculating high-energy electron
+  diffraction and imaging under conditions of inclined illumination.
+\newblock Philosophical Magazine Letters, 1995, 71(1):33--37
+
+\bibitem{Gomez2010}
+Gómez-Rodríguez A, Beltrán-delRío L~M, Herrera-Becerra R.
+\newblock SimulaTEM: multislice simulations for general objects.
+\newblock Ultramicroscopy, 2010, 110(2):95--104
+
+\bibitem{Kirkland2011}
+Kirkland E~J.
+\newblock On the optimum probe in aberration corrected ADF-STEM.
+\newblock Ultramicroscopy, 2011, 111(11):1523--1530
+
+\bibitem{Chen2004}
+Chen J~H, Zandbergen H~W, Van~Dyck D.
+\newblock Atomic imaging in aberration-corrected high-resolution transmission
+  electron microscopy.
+\newblock Ultramicroscopy, 2004, 98(2-4):81--97
+
+\bibitem{Chang2006}
+Chang L~Y, Kirkland A~I, Titchmarsh J~M.
+\newblock On the importance of fifth-order spherical aberration for a fully
+  corrected electron microscope.
+\newblock Ultramicroscopy, 2006, 106(4-5):301--306
+
+\bibitem{Xin2009}
+Xin H~L, Muller D~A.
+\newblock Aberration-corrected ADF-STEM depth sectioning and prospects for
+  reliable 3D imaging in S/TEM.
+\newblock Journal of Electron Microscopy, 2009, 58(4):157--165
+
+\bibitem{Bosch2015}
+Bosch E~G~T, Lazić I.
+\newblock Analysis of HR-STEM theory for thin specimen.
+\newblock Ultramicroscopy, 2015, 156:59--72
+
+\bibitem{Ma2018}
+Ma X, Zhang Z, Yao M, et~al.
+\newblock Spatially-incoherent annular illumination microscopy for bright-field
+  optical sectioning.
+\newblock Ultramicroscopy, 2018, 195:74--84
+
+\bibitem{Gao2017}
+Gao P, Kumamoto A, Ishikawa R, et~al.
+\newblock Picometer-scale atom position analysis in annular bright-field STEM
+  imaging.
+\newblock Ultramicroscopy, 2017, 184:177--187
+
+\bibitem{Kim2017}
+Kim Y~M, Pennycook S~J, Borisevich A~Y.
+\newblock Quantitative comparison of bright field and annular bright field
+  imaging modes for characterization of oxygen octahedral tilts.
+\newblock Ultramicroscopy, 2017, 181:1--7
+
+\bibitem{Findlay2010}
+Findlay S~D, Shibata N, Sawada H, et~al.
+\newblock Dynamics of annular bright field imaging in scanning transmission
+  electron microscopy.
+\newblock Ultramicroscopy, 2010, 110(7):903--923
+
+\bibitem{Hillyard1993}
+Hillyard S, Loane R~F, Silcox J.
+\newblock Annular dark-field imaging: resolution and thickness effects.
+\newblock Ultramicroscopy, 1993, 49:14--25
+
+\bibitem{Hillyard1995}
+Hillyard S, Silcox J.
+\newblock Detector geometry, thermal diffuse scattering and strain effects in
+  ADF STEM imaging.
+\newblock Ultramicroscopy, 1995, 58(1):6--17
+
+\bibitem{Loane1992}
+Loane R~F, Xu P~R, Silcox J.
+\newblock Incoherent imaging of zone axis crystals with ADF STEM.
+\newblock Ultramicroscopy, 1992, 40:121--138
+
+\bibitem{VandenBroek2012}
+Van Den~Broek W, Rosenauer A, Goris B, et~al.
+\newblock Correction of non-linear thickness effects in HAADF STEM electron
+  tomography.
+\newblock Ultramicroscopy, 2012, 116:8--12
+
+\bibitem{Midgley2003}
+Midgley P~A, Weyland M.
+\newblock 3D electron microscopy in the physical sciences: the development of
+  Z-contrast and EFTEM tomography.
+\newblock Ultramicroscopy, 2003, 96(3-4):413--431
+
+\bibitem{Wang1991-1}
+Wang Z~L, Bentley J.
+\newblock Z-contrast imaging of bulk crystal surfaces in scanning reflection
+  electron microscopy.
+\newblock Ultramicroscopy, 1991, 37:39--49
+
+\bibitem{Treacy1993}
+Treacy M~M~J.
+\newblock Coherence and multiple scattering in ``Z-contrast'' images.
+\newblock Ultramicroscopy, 1993, 52:31--53
+
+\bibitem{Batson1993}
+Batson P~E.
+\newblock Simultaneous STEM imaging and electron energy-loss spectroscopy with
+  atomic-column sensitivity.
+\newblock Nature, 1993, 366(6457):727--728
+
+\bibitem{Fink1984}
+Fink J, Müller-Heinzerling T, Pflüger J, et~al.
+\newblock Investigation of hydrocarbon-plasma-generated carbon films by
+  electron-energy-loss spectroscopy.
+\newblock Physical Review B, 1983, 30(8):4713
+
+\bibitem{Kimoto2007}
+Kimoto K, Asaka T, Nagai T, et~al.
+\newblock Element-selective imaging of atomic columns in a crystal using STEM
+  and EELS.
+\newblock Nature, 2007, 450(710):702--704
+
+\bibitem{Cowley1957}
+Cowley J~M, Moodie A~F.
+\newblock The scattering of electrons by atoms and crystals. I. A new
+  theoretical approach.
+\newblock Acta Crystallographica, 1957, 10:609--669
+
+\bibitem{Cai2009}
+Cai C~Y, Zeng S~J, Liu H~R, et~al.
+\newblock Computational comparison of the conventional multislice method and
+  the real space multislice method for simulating exit wavefunctions.
+\newblock Micron, 2009, 40(3):313--319
+
+\bibitem{Cai2012}
+Cai C~Y, Chen J~H.
+\newblock An accurate multislice method for low-energy transmission electron
+  microscopy.
+\newblock Micron, 2012, 43(2-3):374--379
+
+\bibitem{Chen1997}
+Chen J~H, Van~Dyck D.
+\newblock Accurate multislice theory for elastic electron scattering in
+  transmission electron microscopy.
+\newblock Ultramicroscopy, 1997, 70(1-2):29--44
+
+\bibitem{Ming2013}
+Ming W~Q, Chen J~H.
+\newblock Validities of three multislice algorithms for quantitative low-energy
+  transmission electron microscopy.
+\newblock Ultramicroscopy, 2013, 134(0):135--143
+
+\bibitem{Chen1996}
+Chen J~H, Op~De~Beeck M, Van~Dyck D.
+\newblock Can the multislice method be used to caculate HOLZ reflections in
+  high-energy electron diffraction and imaging?
+\newblock Microscopy Microanalysis Microstructures, 1996, 7:27--47
+
+\bibitem{cai2004}
+蔡灿英.
+\newblock 电子动力衍射模拟计算的新方法:
+  [湘潭大学博士学位论文].
+\newblock 湘潭大学, 2008
+
+\bibitem{Ming2017}
+明文全.
+\newblock 现代电子显微学中的几个基础问题研究:
+  [湖南大学博士学位论文].
+\newblock 湖南大学, 2017
+
+\bibitem{VanDyck1980}
+Van~Dyck D.
+\newblock Fast computational procedures for the simulation of structure images
+  in complex or disordered crystals : a new approach.
+\newblock Journal of Microscopy, 1980, 119(Pt 1):141--152
+
+\bibitem{Coene1984}
+Coene W, Van~Dyck D.
+\newblock The real space method for dynamical electron diffrection calculations
+  in high resolution electron microscopy ll. Critical analysis of the
+  dependency on the input parameters.
+\newblock Ultramicroscopy, 1984, 15:41--50
+
+\bibitem{VanDyck1984}
+Van~Dyck D, Coene W.
+\newblock The real space method for dynamical electron diffrection calculations
+  in high resolution electron microscopy l. Principles of the method.
+\newblock Ultramicroscopy, 1984, 15:29--40
+
+\bibitem{Coene1984-1}
+Coene W, Van~Dyck D.
+\newblock The real space method for dynamical electron diffrection calculations
+  in high resolution electron microscopy III. A computational algorithm for the
+  electron propagation with its practical applications.
+\newblock Ultramicroscopy, 1984, 15:287--300
+
+\bibitem{MWQ2018}
+明文全, 陈江华, 牛凤姣, 等.
+\newblock 一种基于改进的多层法和 GPU
+  加速的透射电镜图像模拟算法和程序.
+\newblock 电子显微学报, 2018, 37(5):427--435
+
+\bibitem{Kirkland2010}
+Kirkland E~J.
+\newblock Advanced computing in electron microscopy.
+\newblock New York: Springer US, 2010
+
+\bibitem{Hytch1994}
+Hÿtch M~J, Stobbs W~M.
+\newblock Quantitative comparison of high resolution TEM images with image
+  simulations.
+\newblock Ultramicroscopy, 1994, 53:191--203
+
+\bibitem{Thust2009}
+Thust A.
+\newblock High-resolution transmission electron microscopy on an absolute
+  contrast scale.
+\newblock Physical Review Letters, 2009, 102(22):220801
+
+\bibitem{VanBroek2012}
+Van Den~Broek W, Van~Aert S, Van~Dyck D.
+\newblock Fully automated measurement of the modulation transfer function of
+  charge-coupled devices above the Nyquist frequency.
+\newblock Microscopy and Microanalysis, 2012, 18(2):336--342
+
+\bibitem{Kak1988}
+Kak A~C, Slaney M.
+\newblock Principles of computerized tomographic imaging.
+\newblock United States of America: Society of Industrial and Applied
+  Mathematics, 1988
+
+\bibitem{Liu2016}
+Liu X, Peng D.
+\newblock Regularized iterative weighted filtered back-projection for few-view
+  data photoacoustic imaging.
+\newblock Computational and Mathematical Methods in Medicine, 2016, 2016:1--8
+
+\bibitem{Cho1994}
+Cho Z~H, Wu E~X, Hilal S~K.
+\newblock Weighted backprojection approach to cone beam 3D projection
+  reconstruction for truncated spherical detection geometry.
+\newblock IEEE Transactions on Medical Imaging, 1994, 13(1):110--121
+
+\bibitem{Gordon1970}
+Gordon R, Bender R, Herman G~T.
+\newblock Algebraic reconstruction techniques (ART) for three-dimensional
+  electron microscopy and X-ray photography.
+\newblock Journal of Theoretical Biology, 1970, 29(3):471--481
+
+\bibitem{Gregor2008}
+Gregor J, Benson T.
+\newblock Computational analysis and improvement of SIRT.
+\newblock IEEE Transaction on Medical Imaging, 2008, 27(7):918--924
+
+\bibitem{Okariz2017}
+Okariz A, Guraya T, Iturrondobeitia M, et~al.
+\newblock A methodology for finding the optimal iteration number of the SIRT
+  algorithm for quantitative Electron Tomography.
+\newblock Ultramicroscopy, 2017, 173:36--46
+
+\bibitem{Jiang2003}
+Jiang M, Wang G.
+\newblock Convergence of the simultaneous algebraic reconstruction technique
+  (SART).
+\newblock IEEE Transactions on Image Processing, 2003, 12(8):957--961
+
+\bibitem{Andersen1984}
+Andersen A~H, Kak A~C.
+\newblock Simultaneous algebraic reconstruction technique (SART): a superior
+  implementation of the ART algorithm.
+\newblock Ultrasonic Imaging, 1984, 6(1):81--94
+
+\bibitem{Garces2011}
+Garces D~H, Rhodes W~T, Peña N~M.
+\newblock Projection-slice theorem: a compact notation.
+\newblock Journal of the Optical Society of America A, 2011, 28(5):766--769
+
+\bibitem{Bracewell1990}
+Bracewell R~N.
+\newblock Numerical transforms.
+\newblock Science, 1990, 248(4956):697--704
+
+\bibitem{Miao2005}
+Miao J~W, Förster F, Levi O.
+\newblock Equally sloped tomography with oversampling reconstruction.
+\newblock Physical Review B, 2005, 72(5):052103
+
+\bibitem{Mao2010}
+Mao Y, Fahimian B~P, Osher S~J, et~al.
+\newblock Development and optimization of regularized tomographic
+  reconstruction algorithms utilizing equally-sloped tomography.
+\newblock IEEE Transaction on Image Processing, 2010, 19(5):1259--1268
+
+\bibitem{Hovden2014}
+Hovden R, Ercius P, Jiang Y, et~al.
+\newblock Breaking the crowther limit: combining depth-sectioning and tilt
+  tomography for high-resolution, wide-field 3D reconstructions.
+\newblock Ultramicroscopy, 2014, 140:26--31
+
+\bibitem{Radon1917}
+Radon J.
+\newblock Über die bestimmung von funktionen durch ihre integralwerte längs
+  gewisser mannigfaltigkeiten.
+\newblock Mathematisch-Physische Klasse, 1917, 69:262--277
+
+\bibitem{Wolf2014}
+Wolf D, Lubk A, Lichte H.
+\newblock Weighted simultaneous iterative reconstruction technique for
+  single-axis tomography.
+\newblock Ultramicroscopy, 2014, 136:15--25
+
+\bibitem{Kaczmarz1937}
+Kaczmarz S.
+\newblock Angenäherte auflösung von systemen linearer gleichungen.
+\newblock Bulletin International de l'Académie Polonaise des Sciences et des
+  Lettres, 1937, 35:355--357
+
+\bibitem{Averbuch2006}
+Averbuch A, Coifman R~R, Donoho D~L, et~al.
+\newblock Fast and accurate polar fourier transform.
+\newblock Applied and Computational Harmonic Analysis, 2006, 21(2):145--167
+
+\bibitem{Green1990}
+Green P~J.
+\newblock Bayesian reconstructions from emission tomography data using a
+  modified EM algorithm.
+\newblock IEEE Transaction on Medical Imaging, 1990, 9:84--93
+
+\bibitem{Batenburg2009}
+Batenburg K~J, Bals S, Sijbers J, et~al.
+\newblock 3D imaging of nanomaterials by discrete tomography.
+\newblock Ultramicroscopy, 2009, 109(6):730--740
+
+\bibitem{Bals2007}
+Bals S, Batenburg K~J, Verbeeck J, et~al.
+\newblock Quantitative three-dimensional reconstruction of catalyst particles
+  for bamboo-like carbon nanotubes.
+\newblock Nano Letters, 2007, 7(12):3669--3674
+
+\bibitem{Biermans2010}
+Biermans E, Molina L, Batenburg K~J, et~al.
+\newblock Measuring porosity at the nanoscale by quantitative electron
+  tomography.
+\newblock Nano Letters, 2010, 10(12):5014--5019
+
+\bibitem{Bals2009}
+Bals S, Batenburg K~J, Liang D~D, et~al.
+\newblock Quantitative three-dimensional modeling of zeotile through discrete
+  electron tomography.
+\newblock Journal of the American Chemical Society, 2009, 131:4769--4773
+
+\bibitem{Zurner2009}
+Zurner A, Doblinger M, Cauda V, et~al.
+\newblock Discrete tomography of demanding samples based on a modified SIRT
+  algorithm.
+\newblock Ultramicroscopy, 2012, 115:41--49
+
+\bibitem{Zhuge2017}
+Zhuge X~D, Jinnai H, Dunin-Borkowski R~E, et~al.
+\newblock Automated discrete electron tomography - Towards routine
+  high-fidelity reconstruction of nanomaterials.
+\newblock Ultramicroscopy, 2017, 175:87--96
+
+\bibitem{Srinivasan1993}
+Srinivasan V, Han Y~K, Ong S~H.
+\newblock Image reconstruction by a Hopfield neural network.
+\newblock Image and Vision Computing, 1993, 11(5):278--282
+
+\bibitem{Ma2000}
+Ma X~F, Fukuhara M, Takeda T.
+\newblock Neural network CT image reconstruction method for small amount of
+  projection data.
+\newblock Nuclear Instruments and Methods in Physics Research Selection A,
+  2000, 449(1):366--377
+
+\bibitem{Deming1998}
+Deming R~W.
+\newblock Reconstruction of time-varying objects in computerized tomography
+  using a model-based neural network.
+\newblock In: Proc of STIS'98: Joint Conf. Science and Tech. Intelligent Sys.
+  (ISIC/CIRA/ISAS).
+\newblock 1998,  422--427
+
+\bibitem{Cichocki1995}
+Cichocki A, Unbehauen R, Lendl M, et~al.
+\newblock Neural networks for linear inverse problems with incomplete data
+  especially in applications to signal and image reconstruction.
+\newblock Neurocomputing, 1995, 8(1):7--41
+
+\bibitem{Wang2006}
+Wang J, Meng J, Huang X, et~al.
+\newblock Neural-network approach for optical tomography.
+\newblock Signal Processing, 2006, 86(9):2495--2502
+
+\bibitem{Teranishi2016}
+Teranishi M.
+\newblock Improved neural network tomography by initial learning with coarse
+  reconstructed image.
+\newblock Neurocomputing, 2016, 172:399--404
+
+\bibitem{Ding2019}
+Ding G~L, Liu Y~T, Zhang R, et~al.
+\newblock A joint deep learning model to recover information and reduce
+  artifacts in missing-wedge sinograms for electron tomography and beyond.
+\newblock Scientific Reports, 2019, 9:12803
+
+\bibitem{Pelt2013}
+Pelt D~M, Batenburg K~J.
+\newblock Fast tomographic reconstruction from limited data using artificial
+  neural networks.
+\newblock IEEE Transaction on Image Processing, 2013, 22(12):5238--5251
+
+\bibitem{Bladt2015}
+Bladt E, Pelt D~M, Bals S, et~al.
+\newblock Electron tomography based on highly limited data using a neural
+  network reconstruction technique.
+\newblock Ultramicroscopy, 2015, 158:81--88
+
+\bibitem{YangF2015}
+Yang F, Pham T~A, Gupta H, et~al.
+\newblock Deep-learning projector for optical diffraction tomography.
+\newblock Optics Express, 2020, 28(3):3905--3921
+
+\bibitem{Brandt2001}
+Brandt S, Heikkonen J, Engelhardt P.
+\newblock Multiphase method for automatic alignment of transmission electron
+  microscope images using markers.
+\newblock Journal of Structural Biology, 2001, 133(1):10--22
+
+\bibitem{Gontard2015}
+Gontard L~C.
+\newblock Removing the effects of the ``dark matter'' in tomography.
+\newblock Ultramicroscopy, 2015, 154(0):64--72
+
+\bibitem{Ishikawa2015}
+Ishikawa R, Lupini A~R, Hinuma Y, et~al.
+\newblock Large-angle illumination STEM: toward three-dimensional atom-by-atom
+  imaging.
+\newblock Ultramicroscopy, 2015, 151:122--129
+
+\bibitem{Nellist2007}
+Nellist P~D, Cosgriff E~C, Behan G, et~al.
+\newblock Imaging modes for scanning confocal electron microscopy in a double
+  aberration-corrected transmission electron microscope.
+\newblock Microscopy and Microanalysis, 2007, 14(1):82--88
+
+\bibitem{Crowther1970}
+Crowther R~A, De~Rosier D~J, Klug A.
+\newblock The reconstruction of a three-dimensional structure from projections
+  and its application to electron microscopy.
+\newblock Proceedings of the Royal Society of London. A. Mathematical and
+  Physical Sciences, 1970, 317(1530):319--340
+
+\bibitem{Jacobsen2018}
+Jacobsen C.
+\newblock Relaxation of the Crowther criterion in multislice tomography.
+\newblock Optics Letters, 2018, 43(19):4811--4814
+
+\bibitem{Ming2018}
+Ming W~Q, Chen J~H, He Y~T, et~al.
+\newblock An improved iterative wave function reconstruction algorithm in
+  high-resolution transmission electron microscopy.
+\newblock Ultramicroscopy, 2018, 195:111--120
+
+\bibitem{Ishizuka2013}
+Ishizuka K.
+\newblock Phase retrieval from image intensities: why does exit wave
+  restoration using IWFR work so well?
+\newblock Microscopy (Oxford, England), 2013, 62 Suppl 1:S109--118
+
+\bibitem{Allen2004}
+Allen L~J, McBride W, O'Leary N~L, et~al.
+\newblock Exit wave reconstruction at atomic resolution.
+\newblock Ultramicroscopy, 2004, 100(1-2):91--104
+
+\bibitem{Haigh2013}
+Haigh S~J, Jiang B, Alloyeau D, et~al.
+\newblock Recording low and high spatial frequencies in exit wave
+  reconstructions.
+\newblock Ultramicroscopy, 2013, 133(0):26--34
+
+\bibitem{Morgan2011}
+Morgan A~J, Martin A~V, D'Alfonso A~J, et~al.
+\newblock Direct exit-wave reconstruction from a single defocused image.
+\newblock Ultramicroscopy, 2011, 111(9-10):1455--1460
+
+\bibitem{Thust1996}
+Thust A, Coene W, Op~De~Beeck M, et~al.
+\newblock Focal-series reconstruction in HRTEM: simulation studies on
+  non-periodic objects.
+\newblock Ultramicroscopy, 1996, 64(1-4):211--230
+
+\bibitem{OpdeBeeck1996}
+Op~De~Beeck M, Van~Dyck D, Coene W.
+\newblock Wave function reconstruction in HRTEM: the parabola method.
+\newblock Ultramicroscopy, 1996, 64:167--183
+
+\bibitem{Zandbergen1996}
+Zandbergen H~W, Tang D, Jansen J, et~al.
+\newblock The use of through focus exit wave reconstruction in the structure
+  determination of several intermetallic superconductors.
+\newblock Ultramicroscopy, 1996, 64:231--247
+
+\bibitem{Coene1992}
+Coene W, Janssen G, Op~De~Beeck M, et~al.
+\newblock Phase retrieval through focus variation for ultra-resolution in
+  field-emission transmission electron microscopy.
+\newblock Physical Review Letters, 1992, 69(26):3743--3746
+
+\bibitem{Coene1996}
+Coene W, Thust A, Op~De~Beeck M, et~al.
+\newblock Maximum-likelihood method for focus-variation image reconstruction in
+  high resolution transmission electron microscopy.
+\newblock Physical Review Letters, 1996, 64(1-4):109--135
+
+\bibitem{ChenFR2015}
+Chen F~R, Kisielowski C, Van~Dyck D.
+\newblock 3D reconstruction of nanocrystalline particles from a single
+  projection.
+\newblock Micron, 2015, 68(0):59--65
+
+\bibitem{WangA2012}
+Wang A, Chen F~R, Van~Aert S, et~al.
+\newblock Direct structure inversion from exit waves. Part II: A practical
+  example.
+\newblock Ultramicroscopy, 2012, 116(0):77--85
+
+\bibitem{WangA2010}
+Wang A, Chen F~R, Van~Aert S, et~al.
+\newblock Direct structure inversion from exit waves: Part I: Theory and
+  simulations.
+\newblock Ultramicroscopy, 2010, 110(5):527--534
+
+\bibitem{Jia2006}
+Jia C~L, Nagarajan V, He J~Q, et~al.
+\newblock Unit-cell scale mapping of ferroelectricity and tetragonality in
+  epitaxial ultrathin ferroelectric films.
+\newblock Nature Materials, 2006, 6(1):64--69
+
+\bibitem{Jia2004}
+Jia C~L, Urban K~W.
+\newblock Atomic-resolution measurement of oxygen concentration in oxide
+  materials.
+\newblock Science, 2006, 303(26):2001--2004
+
+\bibitem{Urban2009}
+Urban K~W, Jia C~L, Houben L, et~al.
+\newblock Negative spherical aberration ultrahigh-resolution imaging in
+  corrected transmission electron microscopy.
+\newblock Philosophical Transactions of the Royal Society, A: Mathematical,
+  Physical \& Engineering Sciences, 2009, 367(1903):3735--3753
+
+\bibitem{Jia2003}
+Jia C~L, Lentzen M, Urban K~W.
+\newblock Atomic-resolution imaging of oxygen in perovskite ceramics.
+\newblock Science, 2003, 299:870--873
+
+\bibitem{Jia1999}
+Jia C~L, Thust A.
+\newblock Investigation of atomic displacements at a
+  $\Sigma3\left\{111\right\}$ twin boundary in BaTiO\textsubscript{3} by means
+  of phase-retrieval electron microscopy.
+\newblock Physical Review Letters, 1999, 82(25):5052--5055
+
+\bibitem{Weyland2002}
+Weyland M.
+\newblock Electron tomography of catalysts.
+\newblock Topics in Catalysis, 2002, 21(4):175--183
+
+\bibitem{Yang2014}
+Yang X~B, Chen J~H, Liu J~Z, et~al.
+\newblock A high-strength AlZnMg alloy hardened by the T-phase precipitates.
+\newblock Journal of Alloys and Compounds, 2014, 610:69--73
+
+\bibitem{Malladi2014}
+Malladi S~K, Xu Q, Van~Huis M~A, et~al.
+\newblock Real-time atomic scale imaging of nanostructural evolution in
+  aluminum alloys.
+\newblock Nano Letters, 2014, 14(1):384--389
+
+\bibitem{YuXW2020}
+Yu X~W, Chen J~H, Ming W~Q, et~al.
+\newblock Revisiting the hierarchical microstructures of an Al–Zn–Mg alloy
+  fabricated by pre‑deformation and aging.
+\newblock Acta Metallurgica Sinica (English Letters), 2020, 33:1518--1526
+
+\bibitem{Dahlberg2020}
+Dahlberg P~D, Saurabh S, Sartor A~M, et~al.
+\newblock Cryogenic single-molecule fluorescence annotations for electron
+  tomography reveal in situ organization of key proteins in Caulobacter.
+\newblock PNAS, 2020, 117(25):13937--13944
+
+\bibitem{Rudin1996}
+Rudin L~I, Osher S, Fatemi E.
+\newblock Nonlinear total variation based noise removal algorithms.
+\newblock Physica D, 1996, 60:259--268
+
+\bibitem{Goris1996}
+Goris B, Van~denBroek W, Batenburg K~J, et~al.
+\newblock Electron tomography based on a total variation minimization
+  reconstruction technique.
+\newblock Ultramicroscopy, 2012, 113:120--130
+
+\bibitem{Jiang2018}
+Jiang Y, Padgett E, Hovden R, et~al.
+\newblock Sampling limits for electron tomography with sparsity-exploiting
+  reconstructions.
+\newblock Ultramicroscopy, 2018, 186:94--103
+
+\bibitem{YangF2020}
+Yang F, Pham T~A, Gupta H, et~al.
+\newblock Deep-learning projector for optical diffraction tomography.
+\newblock Optical Express, 2020, 28(3):3905--3921
+
+\bibitem{Rumelhart1986}
+Rumelhart D~E, Hinton G~E, Williams R~J.
+\newblock Learning representations by back-propagating errors.
+\newblock Nature, 1986, 323:533--536
+
+\bibitem{Skoglund1996}
+Skoglund U, Öfverstedt L~G, Burnett R~M, et~al.
+\newblock Maximum-entropy three-dimensional reconstruction with deconvolution
+  of the contrast transfer function: a test application with adenovirus.
+\newblock Journal of Structural Biology, 1986, 117(3):173--188
+
+\bibitem{Abadi2016}
+Abadi M, Barham P, Chen J~M, et~al.
+\newblock A system for large-scale machine learning.
+\newblock In: Proc of 12th USENIX Symposium on Operating Systems Design and
+  Implementation.
+\newblock 2016,  265--283
+
+\bibitem{Zhang2018}
+Zhang Y, Wu C~L, Wang Y~D, et~al.
+\newblock A detailed study of the microstructure and thermal stability of
+  typical SiC fibers.
+\newblock Materials Characterization, 2018, 146:91--100
+
+\bibitem{Haider1998}
+Haider M, Rose H, Uhlemann S, et~al.
+\newblock A spherical-aberration-corrected 200 kV transmission electron
+  microscope.
+\newblock Ultramicroscopy, 1998, 75:53--60
+
+\bibitem{Hosokawa2013}
+Hosokawa F, Sawada H, Kondo Y, et~al.
+\newblock Development of Cs and Cc correctors for transmission electron
+  microscopy.
+\newblock Microscopy (Oxford, England), 2013, 62(1):23--41
+
+\bibitem{Lu2015}
+Lu X, Gao W, Zuo J, et~al.
+\newblock Atomic resolution tomography reconstruction of tilt series based on a
+  GPU accelerated hybrid input-output algorithm using polar Fourier transform.
+\newblock Ultramicroscopy, 2015, 149(0):64--73
+
+\bibitem{Azubel2014}
+Azubel M, Koivisto J, Malola S, et~al.
+\newblock Electron microscopy of gold nanoparticles at atomic resolution.
+\newblock Science, 2014, 345(6199):909--912
+
+\bibitem{Yang2015}
+Yang H, Lozano J~G, Pennycook T~J, et~al.
+\newblock Imaging screw dislocations at atomic resolution by
+  aberration-corrected electron optical sectioning.
+\newblock Nature Communications, 2015, 6:7266
+
+\bibitem{Borisevich2006-1}
+Borisevich A~Y, Lupini A~R, Travaglini S, et~al.
+\newblock Depth sectioning of aligned crystals with the aberration-corrected
+  scanning transmission electron microscope.
+\newblock Journal of Electron Microscopy, 2006, 55(1):7--12
+
+\bibitem{Bosch2020}
+Bosch E~G~T, Lazić I.
+\newblock Analysis of depth-sectioning STEM for thick samples and 3D imaging.
+\newblock Ultramicroscopy, 2019, 207:112831
+
+\bibitem{Aveyard2016}
+Aveyard R, Rieger B.
+\newblock Tilt series STEM simulation of a 25×25×25 nm semiconductor with
+  characteristic X-ray emission.
+\newblock Ultramicroscopy, 2016, 171:96--103
+
+\bibitem{Tanaka1999}
+Tanaka N, Hu J~J, Baba N.
+\newblock An ``on-line'' correction method of defocus and astigmatism in
+  HAADF-STEM.
+\newblock Ultramicroscopy, 1999, 78:103--110
+
+\bibitem{Wang1998}
+Wang Z~L.
+\newblock The `frozen-lattice' approach for incoherent phonon excitation in
+  electron scattering. How accurate is it?
+\newblock Acta Crystallographica, 1998, 54:460--467
+
+\bibitem{Alania2018}
+Alania M, Lobato I, Van~Aert S.
+\newblock Frozen lattice and absorptive model for high angle annular dark field
+  scanning transmission electron microscopy: a comparison study in terms of
+  integrated intensity and atomic column position measurement.
+\newblock Ultramicroscopy, 2018, 184(Pt A):188--198
+
+\bibitem{Born1980}
+Born M, Wolf E.
+\newblock Principles of optics:electromagnetic theory of propagation,
+  interference and diffraction of light.
+\newblock Pergamon, 1980
+
+\bibitem{Lee2013}
+Lee S, Oshima Y, Hosono E, et~al.
+\newblock Reversible contrast in focus series of annular bright field images of
+  a crystalline LiMn\textsubscript{2}O\textsubscript{4} nanowire.
+\newblock Ultramicroscopy, 2013, 125:43--48
+
+\bibitem{Intaraprasonk2008}
+Intaraprasonk V, Xin H~L, Muller D~A.
+\newblock Analytic derivation of optimal imaging conditions for incoherent
+  imaging in aberration-corrected electron microscopes.
+\newblock Ultramicroscopy, 2008, 108(11):1454--1466
+
+\bibitem{Sinkler1999}
+Sinkler W, Marks L~D.
+\newblock A simple channelling model for HREM contrast transfer under dynamical
+  conditions.
+\newblock Journal of Microscopy, 1999, 194(Pt 1):112--123
+
+\bibitem{SRH2020}
+沈若涵, 明文全, 何玉涛, 等.
+\newblock 景深对 HAADF-STEM 原子分辨率三维重构的影响.
+\newblock 电子显微学报, 2020, 39(5):526--535
+
+\bibitem{DeRosier1968}
+De~Rosier D~J, Klug A.
+\newblock Reconstruction of three dimensional structures from electron
+  micrographs.
+\newblock Nature, 1968, 217(5124):130--134
+
+\bibitem{Jaramillo2007}
+Jaramillo T~F, Jørgensen K~P, Bonde J, et~al.
+\newblock Identification of active edge sites for electrochemical
+  H\textsubscript{2} evolution from MoS\textsubscript{2} nanocatalysts.
+\newblock Science, 2007, 317(5834):100--102
+
+\bibitem{Chen2006}
+Chen J~H, Costan E, Van~Huis M~A, et~al.
+\newblock Atomic pillar-based nanoprecipitates strengthen AlMgSi alloys.
+\newblock Science, 2006, 312(5772):416--419
+
+\bibitem{Xin2008}
+Xin H~L, Intaraprasonk V, Muller D~A.
+\newblock Depth sectioning of individual dopant atoms with aberration-corrected
+  scanning transmission electron microscopy.
+\newblock Applied Physics Letters, 2008, 92(1):013125
+
+\bibitem{Borisevich2006}
+Borisevich A~Y, Lupini A~R, Pennycook S~J.
+\newblock Depth sectioning with the aberration-corrected scanning transmission
+  electron microscope.
+\newblock Proceedings of the National Academy of Sciences of the United States
+  of America, 2006, 103(9):3044--3048
+
+\bibitem{VandenBroek2010}
+Van Den~Broek W, Van~Aert S, Van~Dyck D.
+\newblock A model based reconstruction technique for depth sectioning with
+  scanning transmission electron microscopy.
+\newblock Ultramicroscopy, 2010, 110(5):548--554
+
+\bibitem{SRH2019}
+Shen R~H, Ming W~Q, Chen J~H, et~al.
+\newblock Feasible atomic-resolution electron tomography for general crystal
+  surfaces by quantitative reconstruction from a high-resolution image.
+\newblock Ultramicroscopy, 2019, 205:27--38
+
+\bibitem{Chen1997-1}
+Chen J~H, Van~Dyck D, Op~De~Beeck M, et~al.
+\newblock Computational comparisons between the conventional multislice method
+  and the third-order multislice method for calculating high-energy electron
+  diffraction and imaging.
+\newblock Ultramicroscopy, 1997, 69(4):219--240
+
+\bibitem{Chen1995-1}
+Chen J~H, Van~Dyck D, Op~De~Beeck M, et~al.
+\newblock Modification of the multislice method for calculating coherent STEM
+  images.
+\newblock Physica Status Solidi, 1995, 150(1):13--22
+
+\bibitem{Chen1997-2}
+Chen J~H, Van~Dyck D, Op~De~Beeck M, et~al.
+\newblock Multislice method for large beam tilt with application to HOLZ
+  effects in triclinic and monoclinic crystals.
+\newblock Acta Crystallographica, 1997, A53:576--589
+
+\bibitem{Ishizuka1980}
+Ishizuka K.
+\newblock Contrast transfer of crystal images in TEM.
+\newblock Ultramicroscopy, 1980, 5(1):55--65
+
+\bibitem{Frank1973}
+Frank J.
+\newblock The envelope of electron microscopic transfer functions for partially
+  coherent illumination.
+\newblock Optik, 1973, 38(5):519--536
+
+\bibitem{Garland2008}
+Garland M, Grand S~L, Nickolls J, et~al.
+\newblock Parallel computing experiences with CUDA.
+\newblock IEEE Micro, 2008, 28(4):13--27
+
+\bibitem{Jansen2013}
+Jansen J, Otten M~T, Zandbergen H~W.
+\newblock Towards automatic alignment of a crystalline sample in an electron
+  microscope along a zone axis.
+\newblock Ultramicroscopy, 2013, 125:59--65
+
+\bibitem{Grieb2018}
+Grieb T, Tewes M, Schowalter M, et~al.
+\newblock Quantitative HAADF STEM of SiGe in presence of amorphous surface
+  layers from FIB preparation.
+\newblock Ultramicroscopy, 2018, 184(Pt B):29--36
+
+\bibitem{Kilaas1998}
+Kilaas R.
+\newblock Optimal and near‐optimal filters in high‐resolution electron
+  microscopy.
+\newblock Journal of Microscopy (Oxford, United Kingdom), 1998,
+  190(1‐2):45--51
+
+\bibitem{Liu2011}
+Liu C~H, Chen J~H, Li C, et~al.
+\newblock Multiple silicon nanotwins formed on the eutectic silicon particles
+  in Al-Si alloys.
+\newblock Scripta Materialia, 2011, 64(4):339--342
+
+\bibitem{Zhang2019}
+Zhang Q, Zhang L~Y, Jin C~H, et~al.
+\newblock CalAtom: A software for quantitatively analysing atomic columns in a
+  transmission electron microscope image.
+\newblock Ultramicroscopy, 2019, 202:114--120
+
+\bibitem{Gao1999}
+Gao H~X, Peng L~M.
+\newblock Parameterization of the temperature dependence of the Debye-Waller
+  factors.
+\newblock Acta Crystallographica, 1999, 55(5):926--932
+
+\end{thebibliography}

@@ -1,0 +1,97 @@
+\contentsline {chapter}{学位论文原创性声明和学位论文版权使用授权书}{I}{section*.2}%
+\contentsline {chapter}{摘\hskip 1em\relax 要}{II}{section*.3}%
+\contentsline {chapter}{Abstract}{IV}{section*.5}%
+\contentsline {chapter}{目\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces \hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces \hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces \hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 录}{VI}{section*.7}%
+\contentsline {chapter}{插图索引}{IX}{section*.9}%
+\contentsline {chapter}{附表索引}{XII}{section*.11}%
+\contentsline {chapter}{\numberline {1}绪\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces \hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces 论}{1}{section*.13}%
+\contentsline {section}{\numberline {1.1}引言}{1}{section*.14}%
+\contentsline {section}{\numberline {1.2}TEM 及其成像理论}{2}{section*.16}%
+\contentsline {subsection}{\numberline {1.2.1}TEM 发展简介}{2}{section*.17}%
+\contentsline {subsection}{\numberline {1.2.2}TEM 的结构}{3}{section*.18}%
+\contentsline {subsection}{\numberline {1.2.3}(S)TEM 成像原理}{3}{section*.20}%
+\contentsline {subsection}{\numberline {1.2.4}多片层法像模拟}{6}{section*.22}%
+\contentsline {subsubsection}{\numberline {1.2.4.1}传统多片层法}{6}{section*.23}%
+\contentsline {subsubsection}{\numberline {1.2.4.2}实空间多片层法}{7}{section*.25}%
+\contentsline {subsubsection}{\numberline {1.2.4.3}环绕效应}{8}{section*.26}%
+\contentsline {subsection}{\numberline {1.2.5}调制传递函数}{9}{section*.28}%
+\contentsline {section}{\numberline {1.3}3DET 原理}{10}{section*.29}%
+\contentsline {subsection}{\numberline {1.3.1}概述}{10}{section*.30}%
+\contentsline {subsection}{\numberline {1.3.2}变换法}{10}{section*.31}%
+\contentsline {subsubsection}{\numberline {1.3.2.1}拉登变换}{10}{section*.32}%
+\contentsline {subsubsection}{\numberline {1.3.2.2}反投影}{11}{section*.34}%
+\contentsline {subsubsection}{\numberline {1.3.2.3}滤波反投影（FBP）}{13}{section*.36}%
+\contentsline {subsubsection}{\numberline {1.3.2.4}权重反投影（WBP）}{13}{section*.37}%
+\contentsline {subsection}{\numberline {1.3.3}代数法}{14}{section*.39}%
+\contentsline {subsubsection}{\numberline {1.3.3.1}代数重构技术（ART）}{14}{section*.40}%
+\contentsline {subsubsection}{\numberline {1.3.3.2}同时迭代重构技术（SIRT）}{14}{section*.41}%
+\contentsline {subsection}{\numberline {1.3.4}傅里叶变换法}{14}{section*.42}%
+\contentsline {subsubsection}{\numberline {1.3.4.1}傅里叶中心切片定理}{14}{section*.43}%
+\contentsline {subsubsection}{\numberline {1.3.4.2}等斜率技术（EST）}{15}{section*.44}%
+\contentsline {subsection}{\numberline {1.3.5}正则化方法}{16}{section*.46}%
+\contentsline {subsection}{\numberline {1.3.6}基于神经网络的重构方法}{17}{section*.48}%
+\contentsline {subsubsection}{\numberline {1.3.6.1}ART 型神经网络图像重建方法}{17}{section*.49}%
+\contentsline {subsubsection}{\numberline {1.3.6.2}深度学习的 3DET 方法}{18}{section*.51}%
+\contentsline {subsection}{\numberline {1.3.7}样品漂移配准}{19}{section*.54}%
+\contentsline {subsection}{\numberline {1.3.8}缺失锥问题}{20}{section*.55}%
+\contentsline {subsection}{\numberline {1.3.9}电镜会聚束的分辨率限制}{21}{section*.57}%
+\contentsline {subsection}{\numberline {1.3.10}克劳瑟限制}{21}{section*.58}%
+\contentsline {section}{\numberline {1.4}原子分辨率三维重构新方法}{22}{section*.59}%
+\contentsline {subsection}{\numberline {1.4.1}“大爆炸”三维重构}{22}{section*.60}%
+\contentsline {subsection}{\numberline {1.4.2}三维全息}{24}{section*.63}%
+\contentsline {subsection}{\numberline {1.4.3}单张高分辨 TEM 图像三维重构}{25}{section*.65}%
+\contentsline {section}{\numberline {1.5}本论文的主要研究内容}{25}{section*.67}%
+\contentsline {chapter}{\numberline {2}一种基于神经网络的 3DET 方法}{27}{section*.68}%
+\contentsline {section}{\numberline {2.1}引言}{27}{section*.69}%
+\contentsline {section}{\numberline {2.2}TEM 中严重的缺失锥假象}{28}{section*.70}%
+\contentsline {section}{\numberline {2.3}NNART 算法和算法测试}{29}{section*.72}%
+\contentsline {subsection}{\numberline {2.3.1}算法介绍}{29}{section*.73}%
+\contentsline {subsection}{\numberline {2.3.2}重构过程}{31}{section*.75}%
+\contentsline {subsection}{\numberline {2.3.3}模拟测试}{33}{section*.78}%
+\contentsline {section}{\numberline {2.4}实验及结果}{39}{section*.85}%
+\contentsline {section}{\numberline {2.5}NNART 与正则化}{44}{section*.91}%
+\contentsline {section}{\numberline {2.6}讨论}{47}{section*.94}%
+\contentsline {subsection}{\numberline {2.6.1}重构的精度与速度}{47}{section*.95}%
+\contentsline {subsection}{\numberline {2.6.2}算法的优势与应用}{47}{section*.96}%
+\contentsline {subsection}{\numberline {2.6.3}算法的设计与改进}{48}{section*.97}%
+\contentsline {section}{\numberline {2.7}本章小结}{48}{section*.98}%
+\contentsline {chapter}{\numberline {3}景深对 HAADF-STEM 原子分辨率三维重构的影响}{51}{section*.99}%
+\contentsline {section}{\numberline {3.1}引言}{51}{section*.100}%
+\contentsline {section}{\numberline {3.2}图像模拟与三维重构}{52}{section*.101}%
+\contentsline {subsection}{\numberline {3.2.1}HAADF-STEM 倾转系列像的多层法模拟}{52}{section*.102}%
+\contentsline {subsection}{\numberline {3.2.2}景深}{52}{section*.103}%
+\contentsline {subsection}{\numberline {3.2.3}倾转系列三维重构}{53}{section*.105}%
+\contentsline {subsection}{\numberline {3.2.4}计算模型与参数}{53}{section*.106}%
+\contentsline {section}{\numberline {3.3}结果与分析}{54}{section*.108}%
+\contentsline {subsection}{\numberline {3.3.1}局部区域重构现象}{54}{section*.109}%
+\contentsline {subsection}{\numberline {3.3.2}提前聚焦现象}{57}{section*.113}%
+\contentsline {subsection}{\numberline {3.3.3}影响分辨率的因素}{59}{section*.117}%
+\contentsline {section}{\numberline {3.4}讨论}{60}{section*.119}%
+\contentsline {section}{\numberline {3.5}本章小结}{63}{section*.122}%
+\contentsline {chapter}{\numberline {4}一种从单张 TEM 原子像测量晶体三维形貌的方法}{65}{section*.123}%
+\contentsline {section}{\numberline {4.1}引言}{65}{section*.124}%
+\contentsline {section}{\numberline {4.2}全局匹配算法及模拟测试}{66}{section*.125}%
+\contentsline {subsection}{\numberline {4.2.1}算法介绍}{66}{section*.126}%
+\contentsline {subsection}{\numberline {4.2.2}模拟测试方案}{70}{section*.130}%
+\contentsline {subsection}{\numberline {4.2.3}模拟测试结果}{71}{section*.133}%
+\contentsline {subsubsection}{\numberline {4.2.3.1}欠焦量、三级球差及晶体倾转对重构的影响}{71}{section*.134}%
+\contentsline {subsubsection}{\numberline {4.2.3.2}噪音对重构的影响}{73}{section*.137}%
+\contentsline {subsubsection}{\numberline {4.2.3.3}晶体倾转测量误差对重构的影响}{73}{section*.139}%
+\contentsline {subsubsection}{\numberline {4.2.3.4}三级球差测量误差对重构的影响}{74}{section*.141}%
+\contentsline {subsubsection}{\numberline {4.2.3.5}MTF 矫正误差对重构的影响}{75}{section*.142}%
+\contentsline {subsubsection}{\numberline {4.2.3.6}模拟测试小结}{76}{section*.144}%
+\contentsline {section}{\numberline {4.3}三维重构方案的自洽性}{76}{section*.145}%
+\contentsline {subsection}{\numberline {4.3.1}环绕效应收敛测试}{76}{section*.146}%
+\contentsline {subsection}{\numberline {4.3.2}自洽性验证及分辨率}{77}{section*.148}%
+\contentsline {subsection}{\numberline {4.3.3}非晶对重构的影响}{79}{section*.150}%
+\contentsline {subsection}{\numberline {4.3.4}三维重构的置信度}{80}{section*.153}%
+\contentsline {section}{\numberline {4.4}实验图像的三维重构}{81}{section*.155}%
+\contentsline {subsection}{\numberline {4.4.1}实验方案}{82}{section*.156}%
+\contentsline {subsection}{\numberline {4.4.2}图像预处理}{83}{section*.159}%
+\contentsline {subsection}{\numberline {4.4.3}三维重构过程}{83}{section*.161}%
+\contentsline {section}{\numberline {4.5}本章小结}{88}{section*.168}%
+\contentsline {chapter}{结\hskip 1em\relax 论}{91}{section*.169}%
+\contentsline {chapter}{参考文献}{93}{section*.172}%
+\contentsline {chapter}{致\hskip 1em\relax 谢}{107}{section*.174}%
+\contentsline {chapter}{附录A 发表论文和参加科研情况说明}{109}{section*.176}%
+\contentsfinish 

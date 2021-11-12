@@ -1,0 +1,239 @@
+[1] Knoll M, Ruska E. Das elektronenmikroskop. Zeitschrift fur Physik, 1932, 78:318-339
+[2] Haider M, Uhlemann S, Schwan E, et al. Development of a spherical corrected 200 kV TEM: current state of this project and results obtained so far. European Journal of Cell Biology, 1997, 74:7-7
+[3] Frank J. Electron Tomography. New York: Springer, 2006
+[4] Van Aarle W, Palenstijn W J, De Beenhouwer J, et al. The ASTRA toolbox: a platform for advanced algorithm development in electron tomography. Ultramicroscopy, 2015, 157:35-47
+[5] Heidari H, Van Den Broek W, Bals S. Quantitative electron tomography: the effect of the three-dimensional point spread function. Ultramicroscopy, 2013, 135:1-5
+[6] Koning R I, Kutchnoukov V G, Hagen C W, et al. Nanofabrication of a gold fiducial array on specimen support for electron tomography. Ultramicroscopy, 2013, 135:99-104
+[7] Fakron O M, Field D P. 3D image reconstruction of fiber systems using electron tomography. Ultramicroscopy, 2015, 149:21-25
+[8] Baumeister W, Grimm R, Walz J. Electron tomography of molecules and cells. Trends in Cell Biology, 1999, 9:81-85
+[9] McEwen B F, Marko M. The emergence of electron tomography as an important tool for investigating cellular ultrastructure. The Journal of Histochemistry & Cytochemistry, 2001, 49(5):553-563
+[10] McIntosh J R. Electron microscopy of cells: a new beginning for a new Century. The Journal of Cell Biology, 2001, 153(6):F25-F32
+[11] Nellist P D, Pennycook S J. The principles and interpretation of annular dark-field
+Z-contrast imaging. Elsevier, 2000
+[12] Kubel C, Voigt A, Schoenmakers R, et al. Recent advances in electron tomography: TEM and HAADF-STEM tomography for materials science and semiconductor applications. Microscopy and Microanalysis, 2005, 11(5):378-400
+[13] Zhong Z, Goris B, Schoenmakers R, et al. A bimodal tomographic reconstruction technique combining EDS-STEM and HAADF-STEM. Ultramicroscopy, 2017, 174:35-45
+[14] Alania M, Altantzis T, De Backer A, et al. Depth sectioning combined with atomcounting in HAADF STEM to retrieve the 3D atomic structure. Ultramicroscopy, 2017, 177:36-42
+[15] Lefebvre W, Hernandez-Maldonado D, Moyon F, et al. HAADF-STEM atom
+counting in atom probe tomography specimens: towards quantitative correlative microscopy. Ultramicroscopy, 2015, 159(Part 2):403-412
+[16] Zhou J H, Yang Y, Yang Y, et al. Observing crystal nucleation in four dimensions using atomic electron tomography. Nature, 2015, 570(7762):500-503
+[17] Chen C C, Zhu C, White E R, et al. Three-dimensional imaging of dislocations in a nanoparticle at atomic resolution. Nature, 2013, 496(7443):74
+[18] Miao J W, Ercius P, Billinge S J. Atomic electron tomography: 3D structures without crystals. Science, 2016, 353(6306):aaf2157
+[19] Zhu C, Chen C C, Du J, et al. Towards three-dimensional structural determination of amorphous materials at atomic resolution. Physical Review B, 2013, 88(10):100201
+[20] Xu R, Chen C C, L W, et al. Three-dimensional coordinates of individual atoms in materials revealed by electron tomography. Nature Materials, 2015, 14(11):1099-1103
+[21] Scott M C, Chen C C, Mecklenburg M, et al. Electron tomography at 2.4-angstrom resolution. Nature, 2012, 483(7390):444-447
+[22] Wang C Y, Duann H C, Chen C J, et al. Three-dimensional atomic structure of grain boundaries resolved by atomic-resolution electron tomography. Matter, 2020, 3(6):1999-2011
+[23] Persson M, Bone D, Elmqvist H. Total variation norm for three-dimensional iterative reconstruction in limited view angle tomography. Physics in medicine and biology, 2001, 46:853-866
+[24] Lu X Q, Sun Y, Bai G F. Adaptive wavelet-Galerkin methods for limited angle tomography. Image and Vision Computing, 2010, 28(4):696-703
+[25] Aganj I, Bartesaghi A, Borgnia M, et al. Regularization for inverting the radon transform with wedge consideration. In: Proc of IEEE International Symposium on Biomedical Imaging: From Nano To Macro. 2007, 217-220
+[26] Paavolainen L, Acar E, Tuna U, et al. Compensation of missing wedge effects with sequential statistical reconstruction in electron tomography. Plos One, 2014, 9(10):e108978
+[27] Yau S F, Wong S H. Limited angle tomography using artificial neural network. Neural Networks Image Process, 1996, 2664:170-181
+[28] Trampert P, Chen D, Bogachev S, et al. Dictionary-based filling of the missing wedge in electron tomography. Microscopy and Microanalysis, 2016, 22(S3):554-555
+[29] Kovacik L, Kereiche S, Hoog J L, et al. A simple Fourier filter for suppression of the missing wedge ray artefacts in single-axis electron tomographic reconstructions. Journal of Structural Biology, 2014, 186(1):141-152
+[30] Kupsch A, Lange A, Hentschel M P, et al. Missing wedge computed tomography by iterative algorithm DIRECTT. Journal of Microscopy (Oxford, United Kingdom), 2015, 261(1):36-45
+[31] Lee E, Fahimian B P, Iancu C V, et al. Radiation dose reduction and image enhancement in biological imaging through equally-sloped tomography. Journal of Structural Biology, 2008, 164(2):221-227
+[32] Ress D, Harlow M L, Schwarz M, et al. Automatic acquisition of fiducial markers and alignment of images in tilt series for electron tomography. Journal of Electron Microscopy, 1999, 48(3):277-287
+[33] Jones S D, Harting M. A new correlation based alignment technique for use in electron tomography. Ultramicroscopy, 2013, 135:56-63
+[34] D´ıez D C, Seybert A, Frangakis A S. Tilt-series and electron microscope alignment for the correction of the non-perpendicularity of beam and tilt-axis. Journal of Structural Biology, 2006, 154(2):195-205
+[35] Printemps T, Mula G, Sette D, et al. Self-adapting denoising, alignment and reconstruction in electron tomography in materials science. Ultramicroscopy, 2016, 160:23-34
+[36] Chen F R, Kisielowski C, Van Dyck D. Prospects for atomic resolution in-line holography for a 3D determination of atomic structures from single projections. Advanced structural and chemical imaging, 2017, 3(1):8
+[37] Chen F R, Van Dyck D, Kisielowski C. In-line three-dimensional holography of nanocrystalline objects at atomic resolution. Nature Communications, 2016, 7:10603
+[38] Jia C L, Mi S B, Barthel J. Determination of the 3D shape of a nanoscale crystal with atomic resolution from a single image. Nature Materials, 2014, 13(11):1044-1049
+[39] Van Dyck D, Jinschek J R, Chen F R. ’Big Bang’ tomography as a new route to atomic-resolution electron tomography. Nature, 2012, 486(7402):243-246
+[40] Van Aert S, Batenburg K J, Rossell M D, et al. Three-dimensional atomic imaging of crystalline nanoparticles. Nature, 2011, 470(7334):374-377
+[41] Rudenberg R. Three-dimensional atomic imaging of crystalline nanoparticles. Germany. DE, 906737. 1931-05-30
+[42] Crewe A V, Isaacson M, Johnson D. A simple scanning electron microscope. Review of Scientific Instruments, 1969, 40(241):241-246
+[43] Kisielowski C, Freita B, Bischoff M, et al. Detection of single atoms and buried defects in three dimensions by aberration-corrected electron microscope with 0.5-Å information limit. Microscopy and Microanalysis, 2008, 14(5):469-477
+[44] Linck M, Hartel P, Uhlemann S, et al. Chromatic aberration correction for atomic resolution TEM imaging from 20 to 80 kV. Physical Review Letters, 2016, 117(7):076101
+[45] Buckingham J D. Thermionic emission properties of a lanthanum hexaboride/rhenium cathode. British Journal of Applied Physics, 1865, 16(12):1821
+[46] Garbrecht M, Spiecker E, Tillmann K, et al. Quantitative atom column position analysis at the incommensurate interfaces of a (PbS)1.14NbS2 misfit layered compound with aberration-corrected HRTEM. Ultramicroscopy, 2011, 111(3):245-250
+[47] Op De Beeck M, Van Dyck D. Direct structure reconstruction in HRTEM. Ultramicroscopy, 1996, 64(1-4):153-165
+[48] Lynch D F. Effects in dynamic electron diffraction intensities from gold. Acta Crystallographica, 1971, A27:399-407
+[49] Wang Z L. Multiple inelastic xcattering in high-energy electron diffraction and imaging. Acta Crystallographica, 1991, A47:686-698
+[50] Wang Z L, Li D C. Dynamical diffraction of double-inelastically scattered electrons. Philosophical Magazine Part B, 1995, 71(2):201-219
+[51] Spence J C H. Direct inversion of dynamical electron diffraction patterns to structure factors. Acta Crystallographica, 1991, A54:7-18
+[52] Cowley J M, Pogany A P. Diffuse scattering in electron diffraction patterns. I. General theory and computational methods. Acta Crystallographica, 1968, A24:109-116
+[53] Howie A, Whelan M J. Diffraction contrast of electron microscope images of crystal lattice defects. II. The development of a dynamical theory. Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences, 1961, 263(1313):217-237
+[54] Chen J H, Wang Y M, Luo X J, et al. An improved multislice method for calculating high-energy electron diffraction and imaging under conditions of inclined illumination. Philosophical Magazine Letters, 1995, 71(1):33-37
+[55] Gomez-Rodrıguez A, Beltran-delR ´ ´ıo L M, Herrera-Becerra R. SimulaTEM: multislice simulations for general objects. Ultramicroscopy, 2010, 110(2):95-104
+[56] Kirkland E J. On the optimum probe in aberration corrected ADF-STEM. Ultramicroscopy, 2011, 111(11):1523-1530
+[57] Chen J H, Zandbergen H W, Van Dyck D. Atomic imaging in aberration-corrected high-resolution transmission electron microscopy. Ultramicroscopy, 2004, 98(2-4):81-97
+[58] Chang L Y, Kirkland A I, Titchmarsh J M. On the importance of fifth-order spherical aberration for a fully corrected electron microscope. Ultramicroscopy, 2006, 106(4-5):301-306
+[59] Xin H L, Muller D A. Aberration-corrected ADF-STEM depth sectioning and
+prospects for reliable 3D imaging in S/TEM. Journal of Electron Microscopy, 2009, 58(4):157-165
+[60] Bosch E G T, Lazic I. Analysis of HR-STEM theory for thin specimen. Ultramicroscopy, 2015, 156:59-72
+[61] Ma X, Zhang Z, Yao M, et al. Spatially-incoherent annular illumination microscopy for bright-field optical sectioning. Ultramicroscopy, 2018, 195:74-84
+[62] Gao P, Kumamoto A, Ishikawa R, et al. Picometer-scale atom position analysis in annular bright-field STEM imaging. Ultramicroscopy, 2017, 184:177-187
+[63] Kim Y M, Pennycook S J, Borisevich A Y. Quantitative comparison of bright field and annular bright field imaging modes for characterization of oxygen octahedral tilts. Ultramicroscopy, 2017, 181:1-7
+[64] Findlay S D, Shibata N, Sawada H, et al. Dynamics of annular bright field imaging in scanning transmission electron microscopy. Ultramicroscopy, 2010, 110(7):903-923
+[65] Hillyard S, Loane R F, Silcox J. Annular dark-field imaging: resolution and thickness effects. Ultramicroscopy, 1993, 49:14-25
+[66] Hillyard S, Silcox J. Detector geometry, thermal diffuse scattering and strain effects in ADF STEM imaging. Ultramicroscopy, 1995, 58(1):6-17
+[67] Loane R F, Xu P R, Silcox J. Incoherent imaging of zone axis crystals with ADF STEM. Ultramicroscopy, 1992, 40:121-138
+[68] Van Den Broek W, Rosenauer A, Goris B, et al. Correction of non-linear thickness effects in HAADF STEM electron tomography. Ultramicroscopy, 2012, 116:8-12
+[69] Midgley P A, Weyland M. 3D electron microscopy in the physical sciences: the development of Z-contrast and EFTEM tomography. Ultramicroscopy, 2003, 96(3-4):413-431
+[70] Wang Z L, Bentley J. Z-contrast imaging of bulk crystal surfaces in scanning reflection electron microscopy. Ultramicroscopy, 1991, 37:39-49
+[71] Treacy M M J. Coherence and multiple scattering in “Z-contrast” images. Ultramicroscopy, 1993, 52:31-53
+[72] Batson P E. Simultaneous STEM imaging and electron energy-loss spectroscopy with atomic-column sensitivity. Nature, 1993, 366(6457):727-728
+[73] Fink J, Muller-Heinzerling T, Pfl ¨ uger J, et al. Investigation of hydrocarbon-plasma-generated carbon films by electron-energy-loss spectroscopy. Physical Review B, 1983, 30(8):4713
+[74] Kimoto K, Asaka T, Nagai T, et al. Element-selective imaging of atomic columns in a crystal using STEM and EELS. Nature, 2007, 450(710):702-704
+[75] Cowley J M, Moodie A F. The scattering of electrons by atoms and crystals. I. A new theoretical approach. Acta Crystallographica, 1957, 10:609-669
+[76] Cai C Y, Zeng S J, Liu H R, et al. Computational comparison of the conventional multislice method and the real space multislice method for simulating exit wavefunctions. Micron, 2009, 40(3):313-319
+[77] Cai C Y, Chen J H. An accurate multislice method for low-energy transmission electron microscopy. Micron, 2012, 43(2-3):374-379
+[78] Chen J H, Van Dyck D. Accurate multislice theory for elastic electron scattering in transmission electron microscopy. Ultramicroscopy, 1997, 70(1-2):29-44
+[79] Ming W Q, Chen J H. Validities of three multislice algorithms for quantitative lowenergy transmission electron microscopy. Ultramicroscopy, 2013, 134(0):135-143
+[80] Chen J H, Op De Beeck M, Van Dyck D. Can the multislice method be used to caculate HOLZ reflections in high-energy electron diffraction and imaging? Microscopy Microanalysis Microstructures, 1996, 7:27-47
+[81] 蔡灿英. 电子动力衍射模拟计算的新方法: [湘潭大学博士学位论文]. 湘潭大学,
+2008
+[82] 明文全. 现代电子显微学中的几个基础问题研究: [湖南大学博士学位论文]. 湖
+南大学, 2017
+[83] Van Dyck D. Fast computational procedures for the simulation of structure images in complex or disordered crystals : a new approach. Journal of Microscopy, 1980, 119(Pt 1):141-152
+[84] Coene W, Van Dyck D. The real space method for dynamical electron diffrection calculations in high resolution electron microscopy ll. Critical analysis of the dependency on the input parameters. Ultramicroscopy, 1984, 15:41-50
+[85] Van Dyck D, Coene W. The real space method for dynamical electron diffrection calculations in high resolution electron microscopy l. Principles of the method. Ultramicroscopy, 1984, 15:29-40
+[86] Coene W, Van Dyck D. The real space method for dynamical electron diffrection
+calculations in high resolution electron microscopy III. A computational algorithm
+for the electron propagation with its practical applications. Ultramicroscopy, 1984,
+15:287-300
+[87] 明文全, 陈江华, 牛凤姣, 等. 一种基于改进的多层法和 GPU 加速的透射电镜图
+像模拟算法和程序. 电子显微学报, 2018, 37(5):427-435
+[88] Kirkland E J. Advanced computing in electron microscopy. New York: Springer US,
+2010
+[89] Hytch M J, Stobbs W M. Quantitative comparison of high resolution TEM images with image simulations. Ultramicroscopy, 1994, 53:191-203
+[90] Thust A. High-resolution transmission electron microscopy on an absolute contrast scale. Physical Review Letters, 2009, 102(22):220801
+[91] Van Den Broek W, Van Aert S, Van Dyck D. Fully automated measurement of the modulation transfer function of charge-coupled devices above the Nyquist frequency. Microscopy and Microanalysis, 2012, 18(2):336-342
+[92] Kak A C, Slaney M. Principles of computerized tomographic imaging. United States of America: Society of Industrial and Applied Mathematics, 1988
+[93] Liu X, Peng D. Regularized iterative weighted filtered back-projection for few-view data photoacoustic imaging. Computational and Mathematical Methods in Medicine, 2016, 2016:1-8
+[94] Cho Z H, Wu E X, Hilal S K. Weighted backprojection approach to cone beam 3D projection reconstruction for truncated spherical detection geometry. IEEE Transactions on Medical Imaging, 1994, 13(1):110-121
+[95] Gordon R, Bender R, Herman G T. Algebraic reconstruction techniques (ART) for three-dimensional electron microscopy and X-ray photography. Journal of Theoretical Biology, 1970, 29(3):471-481
+[96] Gregor J, Benson T. Computational analysis and improvement of SIRT. IEEE Transaction on Medical Imaging, 2008, 27(7):918-924
+[97] Okariz A, Guraya T, Iturrondobeitia M, et al. A methodology for finding the optimal iteration number of the SIRT algorithm for quantitative Electron Tomography. Ultramicroscopy, 2017, 173:36-46
+[98] Jiang M, Wang G. Convergence of the simultaneous algebraic reconstruction technique (SART). IEEE Transactions on Image Processing, 2003, 12(8):957-961
+[99] Andersen A H, Kak A C. Simultaneous algebraic reconstruction technique (SART): a superior implementation of the ART algorithm. Ultrasonic Imaging, 1984, 6(1):81-94
+[100] Garces D H, Rhodes W T, Pena N M. Projection-slice theorem: a compact notation. Journal of the Optical Society of America A, 2011, 28(5):766-769
+[101] Bracewell R N. Numerical transforms. Science, 1990, 248(4956):697-704
+[102] Miao J W, Forster F, Levi O. Equally sloped tomography with oversampling reconstruction. Physical Review B, 2005, 72(5):052103
+[103] Mao Y, Fahimian B P, Osher S J, et al. Development and optimization of regularized tomographic reconstruction algorithms utilizing equally-sloped tomography. IEEE Transaction on Image Processing, 2010, 19(5):1259-1268
+[104] Hovden R, Ercius P, Jiang Y, et al. Breaking the crowther limit: combining depthsectioning and tilt tomography for high-resolution, wide-field 3D reconstructions. Ultramicroscopy, 2014, 140:26-31
+[105] Radon J. Uber die bestimmung von funktionen durch ihre integralwerte langs gewisser mannigfaltigkeiten. Mathematisch-Physische Klasse, 1917, 69:262-277
+[106] Wolf D, Lubk A, Lichte H. Weighted simultaneous iterative reconstruction technique for single-axis tomography. Ultramicroscopy, 2014, 136:15-25
+[107] Kaczmarz S. Angenaherte auflosung von systemen linearer gleichungen. Bulletin International de l’Academie Polonaise des Sciences et des Lettres, 1937, 35:355-357 ´
+[108] Averbuch A, Coifman R R, Donoho D L, et al. Fast and accurate polar fourier transform. Applied and Computational Harmonic Analysis, 2006, 21(2):145-167
+[109] Green P J. Bayesian reconstructions from emission tomography data using a modified
+EM algorithm. IEEE Transaction on Medical Imaging, 1990, 9:84-93
+[110] Batenburg K J, Bals S, Sijbers J, et al. 3D imaging of nanomaterials by discrete tomography. Ultramicroscopy, 2009, 109(6):730-740
+[111] Bals S, Batenburg K J, Verbeeck J, et al. Quantitative three-dimensional reconstruction of catalyst particles for bamboo-like carbon nanotubes. Nano Letters, 2007, 7(12):3669-3674
+[112] Biermans E, Molina L, Batenburg K J, et al. Measuring porosity at the nanoscale by quantitative electron tomography. Nano Letters, 2010, 10(12):5014-5019
+[113] Bals S, Batenburg K J, Liang D D, et al. Quantitative three-dimensional modeling of zeotile through discrete electron tomography. Journal of the American Chemical
+Society, 2009, 131:4769-4773
+[114] Zurner A, Doblinger M, Cauda V, et al. Discrete tomography of demanding samples based on a modified SIRT algorithm. Ultramicroscopy, 2012, 115:41-49
+[115] Zhuge X D, Jinnai H, Dunin-Borkowski R E, et al. Automated discrete electron tomography - Towards routine high-fidelity reconstruction of nanomaterials. Ultramicroscopy, 2017, 175:87-96
+[116] Srinivasan V, Han Y K, Ong S H. Image reconstruction by a Hopfield neural network. Image and Vision Computing, 1993, 11(5):278-282
+[117] Ma X F, Fukuhara M, Takeda T. Neural network CT image reconstruction method for small amount of projection data. Nuclear Instruments and Methods in Physics Research Selection A, 2000, 449(1):366-377
+[118] Deming R W. Reconstruction of time-varying objects in computerized tomography using a model-based neural network. In: Proc of STIS’98: Joint Conf. Science and Tech. Intelligent Sys. (ISIC/CIRA/ISAS). 1998, 422-427
+[119] Cichocki A, Unbehauen R, Lendl M, et al. Neural networks for linear inverse problems with incomplete data especially in applications to signal and image reconstruction. Neurocomputing, 1995, 8(1):7-41
+[120] Wang J, Meng J, Huang X, et al. Neural-network approach for optical tomography. Signal Processing, 2006, 86(9):2495-2502
+[121] Teranishi M. Improved neural network tomography by initial learning with coarse reconstructed image. Neurocomputing, 2016, 172:399-404
+[122] Ding G L, Liu Y T, Zhang R, et al. A joint deep learning model to recover information and reduce artifacts in missing-wedge sinograms for electron tomography and beyond. Scientific Reports, 2019, 9:12803
+[123] Pelt D M, Batenburg K J. Fast tomographic reconstruction from limited data using artificial neural networks. IEEE Transaction on Image Processing, 2013, 22(12):5238-5251
+[124] Bladt E, Pelt D M, Bals S, et al. Electron tomography based on highly limited data using a neural network reconstruction technique. Ultramicroscopy, 2015, 158:81-88
+[125] Yang F, Pham T A, Gupta H, et al. Deep-learning projector for optical diffraction tomography. Optics Express, 2020, 28(3):3905-3921
+[126] Brandt S, Heikkonen J, Engelhardt P. Multiphase method for automatic alignment of transmission electron microscope images using markers. Journal of Structural Biology, 2001, 133(1):10-22
+[127] Gontard L C. Removing the effects of the “dark matter” in tomography. Ultramicroscopy, 2015, 154(0):64-72
+[128] Ishikawa R, Lupini A R, Hinuma Y, et al. Large-angle illumination STEM: toward three-dimensional atom-by-atom imaging. Ultramicroscopy, 2015, 151:122-129
+[129] Nellist P D, Cosgriff E C, Behan G, et al. Imaging modes for scanning confocal electron microscopy in a double aberration-corrected transmission electron microscope. Microscopy and Microanalysis, 2007, 14(1):82-88
+[130] Crowther R A, De Rosier D J, Klug A. The reconstruction of a three-dimensional structure from projections and its application to electron microscopy. Proceedings of the Royal Society of London. A. Mathematical and Physical Sciences, 1970, 317(1530):319-340
+[131] Jacobsen C. Relaxation of the Crowther criterion in multislice tomography. Optics Letters, 2018, 43(19):4811-4814
+[132] Ming W Q, Chen J H, He Y T, et al. An improved iterative wave function reconstruction algorithm in high-resolution transmission electron microscopy. Ultramicroscopy, 2018, 195:111-120
+[133] Ishizuka K. Phase retrieval from image intensities: why does exit wave restoration using IWFR work so well? Microscopy (Oxford, England), 2013, 62 Suppl 1:S109-118
+[134] Allen L J, McBride W, O’Leary N L, et al. Exit wave reconstruction at atomic resolution. Ultramicroscopy, 2004, 100(1-2):91-104
+[135] Haigh S J, Jiang B, Alloyeau D, et al. Recording low and high spatial frequencies in exit wave reconstructions. Ultramicroscopy, 2013, 133(0):26-34
+[136] Morgan A J, Martin A V, D’Alfonso A J, et al. Direct exit-wave reconstruction from a single defocused image. Ultramicroscopy, 2011, 111(9-10):1455-1460
+[137] Thust A, Coene W, Op De Beeck M, et al. Focal-series reconstruction in HRTEM: simulation studies on non-periodic objects. Ultramicroscopy, 1996, 64(1-4):211-230
+[138] Op De Beeck M, Van Dyck D, Coene W. Wave function reconstruction in HRTEM: the parabola method. Ultramicroscopy, 1996, 64:167-183
+[139] Zandbergen H W, Tang D, Jansen J, et al. The use of through focus exit wave reconstruction in the structure determination of several intermetallic superconductors. Ultramicroscopy, 1996, 64:231-247
+[140] Coene W, Janssen G, Op De Beeck M, et al. Phase retrieval through focus variation for ultra-resolution in field-emission transmission electron microscopy. Physical Review Letters, 1992, 69(26):3743-3746
+[141] Coene W, Thust A, Op De Beeck M, et al. Maximum-likelihood method for focusvariation image reconstruction in high resolution transmission electron microscopy. Physical Review Letters, 1996, 64(1-4):109-135
+[142] Chen F R, Kisielowski C, Van Dyck D. 3D reconstruction of nanocrystalline particles from a single projection. Micron, 2015, 68(0):59-65
+[143] Wang A, Chen F R, Van Aert S, et al. Direct structure inversion from exit waves. Part II: A practical example. Ultramicroscopy, 2012, 116(0):77-85
+[144] Wang A, Chen F R, Van Aert S, et al. Direct structure inversion from exit waves: Part I: Theory and simulations. Ultramicroscopy, 2010, 110(5):527-534
+[145] Jia C L, Nagarajan V, He J Q, et al. Unit-cell scale mapping of ferroelectricity and tetragonality in epitaxial ultrathin ferroelectric films. Nature Materials, 2006, 6(1):64-69
+[146] Jia C L, Urban K W. Atomic-resolution measurement of oxygen concentration in oxide materials. Science, 2006, 303(26):2001-2004
+[147] Urban K W, Jia C L, Houben L, et al. Negative spherical aberration ultrahighresolution imaging in corrected transmission electron microscopy. Philosophical Transactions of the Royal Society, A: Mathematical, Physical & Engineering Sciences, 2009, 367(1903):3735-3753
+[148] Jia C L, Lentzen M, Urban K W. Atomic-resolution imaging of oxygen in perovskite ceramics. Science, 2003, 299:870-873
+[149] Jia C L, Thust A. Investigation of atomic displacements at a Σ3 f111g twin boundary in BaTiO3 by means of phase-retrieval electron microscopy. Physical Review Letters,
+1999, 82(25):5052-5055
+[150] Weyland M. Electron tomography of catalysts. Topics in Catalysis, 2002, 21(4):175-183
+[151] Yang X B, Chen J H, Liu J Z, et al. A high-strength AlZnMg alloy hardened by the T-phase precipitates. Journal of Alloys and Compounds, 2014, 610:69-73
+[152] Malladi S K, Xu Q, Van Huis M A, et al. Real-time atomic scale imaging of nanostructural evolution in aluminum alloys. Nano Letters, 2014, 14(1):384-389
+[153] Yu X W, Chen J H, Ming W Q, et al. Revisiting the hierarchical microstructures of an Al–Zn–Mg alloy fabricated by pre-deformation and aging. Acta Metallurgica Sinica (English Letters), 2020, 33:1518-1526
+[154] Dahlberg P D, Saurabh S, Sartor A M, et al. Cryogenic single-molecule fluorescence annotations for electron tomography reveal in situ organization of key proteins in Caulobacter. PNAS, 2020, 117(25):13937-13944
+[155] Rudin L I, Osher S, Fatemi E. Nonlinear total variation based noise removal algorithms. Physica D, 1996, 60:259-268
+[156] Goris B, Van denBroek W, Batenburg K J, et al. Electron tomography based on a total variation minimization reconstruction technique. Ultramicroscopy, 2012, 113:120-130
+[157] Jiang Y, Padgett E, Hovden R, et al. Sampling limits for electron tomography with sparsity-exploiting reconstructions. Ultramicroscopy, 2018, 186:94-103
+[158] Yang F, Pham T A, Gupta H, et al. Deep-learning projector for optical diffraction tomography. Optical Express, 2020, 28(3):3905-3921
+[159] Rumelhart D E, Hinton G E, Williams R J. Learning representations by backpropagating errors. Nature, 1986, 323:533-536
+[160] Skoglund U, Ofverstedt L G, Burnett R M, et al. Maximum-entropy three-dimensional reconstruction with deconvolution of the contrast transfer function: a test application with adenovirus. Journal of Structural Biology, 1986, 117(3):173-188
+[161] Abadi M, Barham P, Chen J M, et al. A system for large-scale machine learning. In: Proc of 12th USENIX Symposium on Operating Systems Design and Implementation. 2016, 265-283
+[162] Zhang Y, Wu C L, Wang Y D, et al. A detailed study of the microstructure and thermal stability of typical SiC fibers. Materials Characterization, 2018, 146:91-100
+[163] Haider M, Rose H, Uhlemann S, et al. A spherical-aberration-corrected 200 kV transmission electron microscope. Ultramicroscopy, 1998, 75:53-60
+[164] Hosokawa F, Sawada H, Kondo Y, et al. Development of Cs and Cc correctors for transmission electron microscopy. Microscopy (Oxford, England), 2013, 62(1):23-41
+[165] Lu X, Gao W, Zuo J, et al. Atomic resolution tomography reconstruction of tilt series based on a GPU accelerated hybrid input-output algorithm using polar Fourier transform. Ultramicroscopy, 2015, 149(0):64-73
+[166] Azubel M, Koivisto J, Malola S, et al. Electron microscopy of gold nanoparticles at atomic resolution. Science, 2014, 345(6199):909-912
+[167] Yang H, Lozano J G, Pennycook T J, et al. Imaging screw dislocations at atomic resolution by aberration-corrected electron optical sectioning. Nature Communications, 2015, 6:7266
+[168] Borisevich A Y, Lupini A R, Travaglini S, et al. Depth sectioning of aligned crystals with the aberration-corrected scanning transmission electron microscope. Journal of Electron Microscopy, 2006, 55(1):7-12
+[169] Bosch E G T, Lazic I. Analysis of depth-sectioning STEM for thick samples and 3D imaging. Ultramicroscopy, 2019, 207:112831
+[170] Aveyard R, Rieger B. Tilt series STEM simulation of a 25×25×25 nm semiconductor with characteristic X-ray emission. Ultramicroscopy, 2016, 171:96-103
+[171] Tanaka N, Hu J J, Baba N. An “on-line” correction method of defocus and astigmatism in HAADF-STEM. Ultramicroscopy, 1999, 78:103-110
+[172] Wang Z L. The ‘frozen-lattice’ approach for incoherent phonon excitation in electron scattering. How accurate is it? Acta Crystallographica, 1998, 54:460-467
+[173] Alania M, Lobato I, Van Aert S. Frozen lattice and absorptive model for high angle annular dark field scanning transmission electron microscopy: a comparison study in terms of integrated intensity and atomic column position measurement. Ultramicroscopy, 2018, 184(Pt A):188-198
+[174] Born M, Wolf E. Principles of optics:electromagnetic theory of propagation, interference and diffraction of light. Pergamon, 1980
+[175] Lee S, Oshima Y, Hosono E, et al. Reversible contrast in focus series of annular bright field images of a crystalline LiMn2O4 nanowire. Ultramicroscopy, 2013, 125:43-48
+[176] Intaraprasonk V, Xin H L, Muller D A. Analytic derivation of optimal imaging conditions for incoherent imaging in aberration-corrected electron microscopes. Ultramicroscopy, 2008, 108(11):1454-1466
+[177] Sinkler W, Marks L D. A simple channelling model for HREM contrast transfer under dynamical conditions. Journal of Microscopy, 1999, 194(Pt 1):112-123
+[178] 沈若涵, 明文全, 何玉涛, 等. 景深对 HAADF-STEM 原子分辨率三维重构的影
+响. 电子显微学报, 2020, 39(5):526-535
+[179] De Rosier D J, Klug A. Reconstruction of three dimensional structures from electron micrographs. Nature, 1968, 217(5124):130-134
+[180] Jaramillo T F, Jørgensen K P, Bonde J, et al. Identification of active edge sites for electrochemical H2 evolution from MoS2 nanocatalysts. Science, 2007, 317(5834):100-102
+[181] Chen J H, Costan E, Van Huis M A, et al. Atomic pillar-based nanoprecipitates strengthen AlMgSi alloys. Science, 2006, 312(5772):416-419
+[182] Xin H L, Intaraprasonk V, Muller D A. Depth sectioning of individual dopant atoms with aberration-corrected scanning transmission electron microscopy. Applied Physics Letters, 2008, 92(1):013125
+[183] Borisevich A Y, Lupini A R, Pennycook S J. Depth sectioning with the aberrationcorrected scanning transmission electron microscope. Proceedings of the National Academy of Sciences of the United States of America, 2006, 103(9):3044-3048
+[184] Van Den Broek W, Van Aert S, Van Dyck D. A model based reconstruction technique for depth sectioning with scanning transmission electron microscopy. Ultramicroscopy, 2010, 110(5):548-554
+[185] Shen R H, Ming W Q, Chen J H, et al. Feasible atomic-resolution electron tomography for general crystal surfaces by quantitative reconstruction from a high-resolution image. Ultramicroscopy, 2019, 205:27-38
+[173] Alania M, Lobato I, Van Aert S. Frozen lattice and absorptive model for high angle
+annular dark field scanning transmission electron microscopy: a comparison study
+in terms of integrated intensity and atomic column position measurement. Ultramicroscopy, 2018, 184(Pt A):188-198
+[174] Born M, Wolf E. Principles of optics:electromagnetic theory of propagation, interference and diffraction of light. Pergamon, 1980
+[175] Lee S, Oshima Y, Hosono E, et al. Reversible contrast in focus series of annular bright
+field images of a crystalline LiMn2O4 nanowire. Ultramicroscopy, 2013, 125:43-48
+[176] Intaraprasonk V, Xin H L, Muller D A. Analytic derivation of optimal imaging conditions for incoherent imaging in aberration-corrected electron microscopes. Ultramicroscopy, 2008, 108(11):1454-1466
+[177] Sinkler W, Marks L D. A simple channelling model for HREM contrast transfer under dynamical conditions. Journal of Microscopy, 1999, 194(Pt 1):112-123
+[178] 沈若涵, 明文全, 何玉涛, 等. 景深对 HAADF-STEM 原子分辨率三维重构的影
+响. 电子显微学报, 2020, 39(5):526-535
+[179] De Rosier D J, Klug A. Reconstruction of three dimensional structures from electron micrographs. Nature, 1968, 217(5124):130-134
+[180] Jaramillo T F, Jørgensen K P, Bonde J, et al. Identification of active edge sites for electrochemical H2 evolution from MoS2 nanocatalysts. Science, 2007, 317(5834):100-102
+[181] Chen J H, Costan E, Van Huis M A, et al. Atomic pillar-based nanoprecipitates strengthen AlMgSi alloys. Science, 2006, 312(5772):416-419
+[182] Xin H L, Intaraprasonk V, Muller D A. Depth sectioning of individual dopant atoms with aberration-corrected scanning transmission electron microscopy. Applied Physics Letters, 2008, 92(1):013125
+[183] Borisevich A Y, Lupini A R, Pennycook S J. Depth sectioning with the aberrationcorrected scanning transmission electron microscope. Proceedings of the National Academy of Sciences of the United States of America, 2006, 103(9):3044-3048
+[184] Van Den Broek W, Van Aert S, Van Dyck D. A model based reconstruction technique for depth sectioning with scanning transmission electron microscopy. Ultramicroscopy, 2010, 110(5):548-554
+[185] Shen R H, Ming W Q, Chen J H, et al. Feasible atomic-resolution electron tomography for general crystal surfaces by quantitative reconstruction from a high-resolution image. Ultramicroscopy, 2019, 205:27-38
+[186] Chen J H, Van Dyck D, Op De Beeck M, et al. Computational comparisons between the conventional multislice method and the third-order multislice method for calculating high-energy electron diffraction and imaging. Ultramicroscopy, 1997, 69(4):219-240
+[187] Chen J H, Van Dyck D, Op De Beeck M, et al. Modification of the multislice method for calculating coherent STEM images. Physica Status Solidi, 1995, 150(1):13-22
+[188] Chen J H, Van Dyck D, Op De Beeck M, et al. Multislice method for large beam tilt with application to HOLZ effects in triclinic and monoclinic crystals. Acta Crystallographica, 1997, A53:576-589
+[189] Ishizuka K. Contrast transfer of crystal images in TEM. Ultramicroscopy, 1980, 5(1):55-65
+[190] Frank J. The envelope of electron microscopic transfer functions for partially coherent illumination. Optik, 1973, 38(5):519-536
+[191] Garland M, Grand S L, Nickolls J, et al. Parallel computing experiences with CUDA. IEEE Micro, 2008, 28(4):13-27
+[192] Jansen J, Otten M T, Zandbergen H W. Towards automatic alignment of a crystalline sample in an electron microscope along a zone axis. Ultramicroscopy, 2013, 125:59-65
+[193] Grieb T, Tewes M, Schowalter M, et al. Quantitative HAADF STEM of SiGe in presence of amorphous surface layers from FIB preparation. Ultramicroscopy, 2018, 184(Pt B):29-36
+[194] Kilaas R. Optimal and near-optimal filters in high-resolution electron microscopy. Journal of Microscopy (Oxford, United Kingdom), 1998, 190(1-2):45-51
+[195] Liu C H, Chen J H, Li C, et al. Multiple silicon nanotwins formed on the eutectic silicon particles in Al-Si alloys. Scripta Materialia, 2011, 64(4):339-342
+[196] Zhang Q, Zhang L Y, Jin C H, et al. CalAtom: A software for quantitatively analysing atomic columns in a transmission electron microscope image. Ultramicroscopy, 2019, 202:114-120
+[197] Gao H X, Peng L M. Parameterization of the temperature dependence of the DebyeWaller factors. Acta Crystallographica, 1999, 55(5):926-932
+
+三维电子断层成像技术是透射电子显微镜中应用最广泛的三维重构技术，它通过样品的倾转系列线性投影图像来对原始样品三维结构进行重建。 由于需要收集大量的倾转系列透射电子显微镜图像，该技术在实际运用中存在许多理论和实验问题。首先，由于常规的透射电子显微镜无法收集样品倾转至高角度的图像，致使重构结果在傅里叶空间中存在一个锥形的信息缺失的区域，通常称为缺失锥，这使得重构的结果中存在严重的假象。另一方面，随着扫描透射电子显微镜的电子束斑的尺寸越来越小，高角环形暗场像将成为样品局部的光学层析，偏离样品结构的线性投影。此时，原子分辨率的三维电子断层成像技术在理论上是否可行、其与常规块体样品的三维重构之间的异同，需要被研究和准确地理解。另外，为了回避实验中存在的困难，一些电子显微学家另辟蹊径，通过结合像模拟和相关理论，从单张或少量透射电子显微镜图像来分析材料的三维结构信息。这些方法的实验实现过程更加简单快捷，但是在理论上面对许多挑战，是值得探究和完善的新技术。着眼于上述科学问题，本论文通过理论探究、编程模拟、实验验证等手段开展了如下研究，并取得了一些创新性结果：
+（1）开发了一种代数重构型神经网络三维电子断层成像算法。该算法以反传播神经网络为优化模型求解线性投影方程组，直接从实验投影数据进行图像重建。不同于一般的正则化或约束的代数重构算法，该算法凭借神经网络的高复杂度来重构低维的图像，能够在不引入任何先验知识的情况下，大幅度抑制缺失锥假象，恢复出缺失锥中丢失的频率信息。并且，该算法还使用了一种“多次平均”的方式，在统计意义上获得平滑数值解，这使其不易与实验噪音互相干扰，具有良好的抗噪音能力。模拟测试表明，该算法能够运用于重构各种不同形态的样品。实验结果表明，当材料的形貌复杂，且存在实验噪音时，该算法相比于其他方法具有很大的优势。
+（2）通过理论模拟，探究了纳米尺度景深下原子分辨率三维电子断层成像技术的可行性。研究中使用多片层法模拟原子模型的倾转系列高角环形暗场像，再使用同时迭代重构技术对其进行重构。为了避免通道效应，研究中以无序的原子模型为探究对象，对比研究了束斑的加速电压、会聚半角、欠焦量、样品的尺寸、元素等因素对三维重构的影响。研究发现，当景深小于样品厚度时，三维重构技术只能正确重构样品中的局部区域。而且，实际正确重构的区域相对于电子束名义聚焦位置偏上，即存在提前聚焦现象。电子束斑的实际聚焦位置与倾转轴之间的相对关系，决定图像包含的样品信息的具体位置，从而决定重构的质量。电子束斑聚焦于倾转轴上时，可以获得最好的重构效果。电子束斑偏离倾转轴时，相当于收集到的信息中存在缺失锥。
+（3）提出了一种切实可行的通过对单张透射电子显微镜原子像的定量分析重建一般晶体表面的原子分辨率三维重构技术。本文首先设计了一种通过模拟匹配，全局定量分析透射电子显微镜原子像的算法。通过详细的理论模拟探究，证明了对于一般的透射电子显微镜原子像，必须使用全局匹配，才能准确重构其对应的样品的三维形貌。并且，本文还提出了一种自洽性验证方案，取多次独立重构的平均结果重构为最终结果，具有统计意义，且能够估计和定义三维重构的分辨率。重构后还通过定量模拟分析，并引入置信度来定量探究非晶对重构结果的影响。我们使用该方法对 Si[110] 晶体样品的二维原子分辨率透射电镜图像进行了重构，并且测得该重构的结果在原子柱的高度（欠焦量）和厚度（原子个数）方面的分辨率都是一个原子间距（0.384 nm），其表面覆盖的非晶层厚度小于 1 nm。本论文开发了高精度的三维重构新方法，并在理论上探究和揭示了当三维重构达到原子分辨率时将面对的问题。这些方法和理论还有更广阔的探究空间，能够为材料科学研究提供更好的技术手段。
+
+Electron tomography is the most popular three-dimensional reconstruction technique in the transmission electron microscopy. It is realized by reconstruction from a series of linear projections of the materials at different tilt angles. However, the massive demand of experimental data complicates the actual problem and forces the technique to face some extra experimental and theoretical problems. Among them, missing wedge, caused by incomplete specimen tilt range, is a vital problem that introduces severe artifacts in the tomogram. On the other hand, as the beam probe size of the scanning transmission electron microscope is reduced, the high-angle annular dark field images will become optical sections, deviating from the linear projections. In this condition, new problems such that whether tomography is theoretically feasible and what the difference is from the reconstruction of bulk materials at low magnification, need to be addressed. In addition, some researchers have proposed several new methods to skip over the negative factors occurring in the redundant images collection process. By combining with some theoretical or simulation results, these methods are capable of analysing the materials’ three-dimensional structures from several transmission electron micrographs. Nevertheless, these new techniques still face some theoretical problems and are worth exploring and improving. Focusing on the scientific issues mentioned above, the present dissertation conducts researches through theoretical study, programming simulation, experimental verification and other means, and some innovative results are mainly achieved:
+(1) A neural network tomography algorithm is developed. It performs the recontruction directly from the experimental data by solving the projection linear equations by a back-propagation neural network model. Different from the regularized or constrained algebraic reconstruction techniques, this algorithm takes advantages of the high complexity of the neural network to minimize missing wedge artifacts and retrieve the missing frequency information without the need for prior knowledge. In addition, the smooth solution resulting from the current algorithm is less susceptible to noise than the results of the general regularization methods as a special average scheme is used in the algorithm. Simulation tests demonstrate that the algorithm can be used to reconstruct various materials with different morphologies. Experimental results show that the algorithm has great advantages over other approaches when the shape of the material is complex and there is experimental noise.
+(2) Through theoretical simulation, the feasibility of atomic-resolution tomography under nano-scale depth of field is explored. In this study, tilt series of high-angle annular dark field images of atomic models are simulated by multislice method and reconstructed by simultaneous iterative reconstruction technique. Disordered atomic models are used in the study to avoid channelling effect. The influences of the acceleration voltage, semiconvergence angle, defocus, sample’s size and element on the reconstruction are explored. The study finds that when the depth of field is less than the sample’ thickness, tomography can only correctly reconstruct the local area of the sample. In addition, the actual correct reconstruction area is higher than the nominal focus position of the electron beam, that is, there is a pre-focusing phenomenon. On the other hand, the relative positions between the beam probe and the tilt axis determines the specific positions in the sample, from which the information collected in the images originates, thereby determining the quality of the reconstruction. When the electron beam probe is focused on the tilt axis, the best reconstruction quality can be obtained. Otherwise, it is equivalent to including missing wedge in the collected information.
+(3) A feasible three-dimensional reconstruction technique for reconstructing the surface of general crystals, through quantitative analysis of a single atomic transmission electron micrograph, is proposed. Firstly, a global matching algorithm based on quantitative simulation analysis is developed. By detailed simulation tests, the necessity of the global matching algorithm is proved, for accurate reconstrction from a general atomic transmission electron micrograph. In addition, the technique adopts a self-validation scheme, taking an average result of multiple independent reconstructions as the final result. The resolution of the three-dimensional reconstruction can be estimated from the multiple results. Acorrding to the result and simulation analysis, a confidence factor is introduced to quantitatively explore the influence of amorphous on the reconstruction result. Applying the proposed algorithm to a two-dimensional experimental image from a Si[110] crystal sample, it is shown that an atomic-resolution of  one interatomic distance (= 0.384 nm) in three-dimension for both the height (defocus) and the thickness (atom numbers) of Si atomic columns can be achieved, provided that the covering amorphous layers were less than 1.0 nm in thickness. This dissertation proposes two new techniques to realise high precision three-dimensional reconstruction, and reveals some new theorectical problems that will be faced in atomicresolution electron tomography. These new theories and techniques have a lot of potential for better supporting material research.
+
